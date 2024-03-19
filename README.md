@@ -15,6 +15,7 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 ## Étapes du Projet ⛰️
 
 ### Collecte de Données 
+
 - Collecte de données sur les Jeux Olympiques via Kaggle.
 - Récupération de données sur les athlètes via le site World Athletics à l'aide du WebScrapping avec Python.
 - Extraction d'informations sur les marathons majeurs à travers le WebScrapping sur les sites des résultats.
@@ -22,11 +23,13 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 ![Athletes men](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/38e4962f-e15b-4aff-be00-6c2daf4ac756)
    
 ### Stockage et Nettoyage des Données
+
 - Stockage, nettoyage et structuration des données dans BigQuery à l'aide de requêtes SQL pour la préparation des données.
 
 ![BigQuery-ezgif com-video-to-gif-converter-2](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/6b195aed-aeb8-44db-bab1-8252024250b1)
 
-### Visualisation des Données 📊
+### Visualisation des Données 
+
 - Utilisation de Tableau Desktop pour connecter BigQuery et créer des visualisations interactives.
 - Création de tableaux de bord pour explorer les données des Jeux Olympiques, des marathons majeurs, et des athlètes professionnels.
 
@@ -34,6 +37,7 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 
 
 ### Modélisation Prédictive
+
 - Entrainement d'un modèle de régression linéaire pour prédire les temps de finition des marathoniens qualifiés pour les JO de Paris 2024.
 - Utilisation de caractéristiques des athlètes et des courses comme variables explicatives pour le modèle.
 - Évaluation du modèle avec une base test pour estimer la performance de prédiction.
@@ -48,13 +52,20 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 <img width="637" alt="Podium" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/de37e6eb-4284-495e-9d23-a67789274a0f">
 
 ### Compétences Techniques Acquises 
-✅ Collecte de données à partir de différentes sources (Kaggle, WebScrapping). 
+
+✅ Collecte de données à partir de différentes sources (Kaggle, WebScrapping).
+
 ✅ Stockage et manipulation des données dans BigQuery avec des requêtes SQL.
+
 ✅ Visualisation de données avec Tableau Desktop pour créer des tableaux de bord interactifs.
+
 ✅ Modélisation prédictive en utilisant la régression linéaire avec Python.
+
 ✅ Évaluation et interprétation des modèles prédictifs.
+
 ✅ Présentation du projet devant un public
 
-### Conclusion ✨
+### Conclusion 📊
+
 Ce projet démontre ma capacité à gérer le cycle complet d'un projet de Data Analyse, depuis la collecte des données jusqu'à la présentation des résultats. 
 Mes compétences techniques en manipulation de données, visualisation et modélisation prédictive sont mises en avant à travers les différentes étapes de ce projet. 
