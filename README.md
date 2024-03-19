@@ -1,4 +1,4 @@
-# Portfolio de mes projets Openclassrooms
+# Portfolio de mes projets
 
 Voici le Portfolio des projets que j'ai réalisés dans le cadre de ma formation en Data Analyse. Je peux déja vous présenter mes projets finalisés et leur code Python, R, et SQL associés. Vous trouverez ci-dessous l'intitulé des différents projets et des compétences acquises pour chacun d'eux.
 
