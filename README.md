@@ -37,6 +37,9 @@ L'objectif principal de ce projet était de prédire le finish time des marathon
 - Utilisation de caractéristiques des athlètes et des courses comme variables explicatives pour le modèle.
 - Évaluation du modèle avec une base test pour estimer la performance de prédiction.
 
+![Prediction-ezgif com-video-to-gif-converter](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/a34411f7-c6eb-43bc-b3df-82bcb704a4ce)
+
+
 ### Résultats et Prédictions
 
 - Prédiction des temps de finition pour les marathoniens qualifiés aux JO de Paris 2024.
