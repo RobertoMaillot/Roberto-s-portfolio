@@ -10,7 +10,7 @@ Dans le cadre de ma formation en Data Analytics chez Le Wagon, j'ai réalisé un
 
 ## Objectif
 
-L'objectif principal de ce projet était de prédire le finish time des marathoniens qualifiés pour les Jeux Olympiques de Paris 2024, en utilisant un modèle de régression linéaire et en se basant sur des données historiques de performances, de caractéristiques des athlètes et des courses.
+L'objectif principal de ce projet était de prédire le temps final des marathoniens qualifiés pour les Jeux Olympiques de Paris 2024, en utilisant un modèle de régression linéaire et en se basant sur des données historiques de performances, de caractéristiques des athlètes et des courses.
 
 ## Étapes du Projet
 
