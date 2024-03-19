@@ -2,7 +2,7 @@
 
 Voici le Portfolio des projets que j'ai réalisés dans le cadre de ma formation en Data Analyse. Je peux vous présenter mes projets finalisés et leur code Python, R, et SQL associés. Vous trouverez ci-dessous l'intitulé des différents projets et des compétences acquises pour chacun d'eux.
 
-# Projet 1 : Prédiction du Podium Olympique de Marathon
+# Projet 1 : Prédiction du Podium du Marathon Olympique (Paris 2024)
 
 ## Introduction
 
