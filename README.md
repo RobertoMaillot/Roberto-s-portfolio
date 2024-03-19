@@ -20,10 +20,12 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 - Extraction d'informations sur les marathons majeurs à travers le WebScrapping sur les sites des résultats.
 
 ![Athletes men](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/38e4962f-e15b-4aff-be00-6c2daf4ac756)
-
-     
+   
 ### Stockage et Nettoyage des Données
 - Stockage, nettoyage et structuration des données dans BigQuery à l'aide de requêtes SQL pour la préparation des données.
+
+![BigQuery-ezgif com-video-to-gif-converter](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5709f82b-33bc-4292-affa-721cc072c8de)
+
 
 ### Visualisation des Données
 - Utilisation de Tableau Desktop pour connecter BigQuery et créer des visualisations interactives.
@@ -37,9 +39,7 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 - Utilisation de caractéristiques des athlètes et des courses comme variables explicatives pour le modèle.
 - Évaluation du modèle avec une base test pour estimer la performance de prédiction.
 
-
 ![Prediction-ezgif com-video-to-gif-converter-2](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/813661b5-9dce-4fb3-83ca-827cc595a689)
-
 
 ### Résultats et Prédictions
 
