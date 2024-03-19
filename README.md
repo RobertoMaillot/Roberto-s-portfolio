@@ -8,7 +8,7 @@ Voici le Portfolio des projets que j'ai réalisés dans le cadre de ma formation
 
 Dans le cadre de ma formation en Data Analytics chez Le Wagon, j'ai réalisé un projet complet de Data Analyse visant à prédire le podium olympique du marathon, à la fois pour les hommes et pour les femmes, aux Jeux Olympiques de Paris 2024. Ce projet a été conçu pour démontrer mes compétences en collecte de données, nettoyage, structuration, analyse exploratoire, visualisation et modélisation prédictive.
 
-## Objectif
+## Objectif ##🎯
 
 L'objectif principal de ce projet était de prédire le temps final des marathoniens qualifiés pour les Jeux Olympiques de Paris 2024, en utilisant un modèle de régression linéaire et en se basant sur des données historiques de performances, de caractéristiques des athlètes et des courses.
 
