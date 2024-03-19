@@ -29,6 +29,8 @@ L'objectif principal de ce projet était de prédire le finish time des marathon
 - Utilisation de Tableau Desktop pour connecter BigQuery et créer des visualisations interactives.
 - Création de tableaux de bord pour explorer les données des Jeux Olympiques, des marathons majeurs, et des athlètes professionnels.
 
+https://s2.ezgif.com/tmp/ezgif-2-745a1c7c15.gif
+
 ### Modélisation Prédictive
 - Entrainement d'un modèle de régression linéaire pour prédire les temps de finition des marathoniens qualifiés pour les JO de Paris 2024.
 - Utilisation de caractéristiques des athlètes et des courses comme variables explicatives pour le modèle.
