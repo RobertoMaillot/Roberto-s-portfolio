@@ -1,6 +1,6 @@
-# Roberto-s-portfolio
+# Portfolio de mes projets Openclassrooms
 
-Analytics Portfolio
+Voici le Portfolio des projets que j'ai réalisés dans le cadre de ma formation en Data Analyse. Je peux déja vous présenter mes projets finalisés et leur code Python, R, et SQL associés. Vous trouverez ci-dessous l'intitulé des différents projets et des compétences acquises pour chacun d'eux.
 
 # Projet 1 : Prédiction du Podium Olympique de Marathon
 
@@ -10,39 +10,41 @@ Dans le cadre de ma formation en Data Analytics chez Le Wagon, j'ai réalisé un
 
 ## Objectif
 
-L'objectif principal de ce projet était de prédire les temps de finition des marathoniens qualifiés pour les Jeux Olympiques de Paris 2024, en utilisant un modèle de régression linéaire et en se basant sur des données historiques de performances, de caractéristiques des athlètes et des courses.
+L'objectif principal de ce projet était de prédire le finish time des marathoniens qualifiés pour les Jeux Olympiques de Paris 2024, en utilisant un modèle de régression linéaire et en se basant sur des données historiques de performances, de caractéristiques des athlètes et des courses.
 
 ## Étapes du Projet
 
 ### Collecte de Données
-Collecte de données sur les Jeux Olympiques via Kaggle.
-Récupération de données sur les athlètes via le site World Athletics à l'aide du WebScrapping avec Python.
-Extraction d'informations sur les marathons majeurs à travers le WebScrapping sur les sites des résultats.
+- Collecte de données sur les Jeux Olympiques via Kaggle.
+- Récupération de données sur les athlètes via le site World Athletics à l'aide du WebScrapping avec Python.
+- Extraction d'informations sur les marathons majeurs à travers le WebScrapping sur les sites des résultats.
+
+
      
 ### Stockage et Nettoyage des Données
-Stockage, nettoyage et structuration des données dans BigQuery à l'aide de requêtes SQL pour la préparation des données.
+- Stockage, nettoyage et structuration des données dans BigQuery à l'aide de requêtes SQL pour la préparation des données.
 
 ### Visualisation des Données
-Utilisation de Tableau Desktop pour connecter BigQuery et créer des visualisations interactives.
-Création de tableaux de bord pour explorer les données des Jeux Olympiques, des marathons majeurs, et des athlètes professionnels.
+- Utilisation de Tableau Desktop pour connecter BigQuery et créer des visualisations interactives.
+- Création de tableaux de bord pour explorer les données des Jeux Olympiques, des marathons majeurs, et des athlètes professionnels.
 
 ### Modélisation Prédictive
-Entrainement d'un modèle de régression linéaire pour prédire les temps de finition des marathoniens qualifiés pour les JO de Paris 2024.
-Utilisation de caractéristiques des athlètes et des courses comme variables explicatives pour le modèle.
-Évaluation du modèle avec une base test pour estimer la performance de prédiction.
+- Entrainement d'un modèle de régression linéaire pour prédire les temps de finition des marathoniens qualifiés pour les JO de Paris 2024.
+- Utilisation de caractéristiques des athlètes et des courses comme variables explicatives pour le modèle.
+- Évaluation du modèle avec une base test pour estimer la performance de prédiction.
 
 ### Résultats et Prédictions
 
-Prédiction des temps de finition pour les marathoniens qualifiés aux JO de Paris 2024.
-Présentation des podiums prévus pour les hommes et les femmes.
+- Prédiction des temps de finition pour les marathoniens qualifiés aux JO de Paris 2024.
+- Présentation des podiums prévus pour les hommes et les femmes.
 
 ### Compétences Techniques Acquises
-Collecte de données à partir de différentes sources (Kaggle, WebScrapping).
-Stockage et manipulation des données dans BigQuery avec des requêtes SQL.
-Visualisation de données avec Tableau Desktop pour créer des tableaux de bord interactifs.
-Modélisation prédictive en utilisant la régression linéaire avec Python.
-Évaluation et interprétation des modèles prédictifs.
-Présentation du projet devant un public
+- Collecte de données à partir de différentes sources (Kaggle, WebScrapping).
+- Stockage et manipulation des données dans BigQuery avec des requêtes SQL.
+- Visualisation de données avec Tableau Desktop pour créer des tableaux de bord interactifs.
+- Modélisation prédictive en utilisant la régression linéaire avec Python.
+- Évaluation et interprétation des modèles prédictifs.
+- Présentation du projet devant un public
 
 ### Conclusion
 Ce projet démontre ma capacité à gérer le cycle complet d'un projet de Data Analyse, depuis la collecte des données jusqu'à la présentation des résultats. 
