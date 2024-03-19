@@ -24,8 +24,7 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 ### Stockage et Nettoyage des Données
 - Stockage, nettoyage et structuration des données dans BigQuery à l'aide de requêtes SQL pour la préparation des données.
 
-![BigQuery-ezgif com-video-to-gif-converter](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5709f82b-33bc-4292-affa-721cc072c8de)
-
+![BigQuery-ezgif com-video-to-gif-converter-2](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/6b195aed-aeb8-44db-bab1-8252024250b1)
 
 ### Visualisation des Données
 - Utilisation de Tableau Desktop pour connecter BigQuery et créer des visualisations interactives.
@@ -46,9 +45,7 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 - Prédiction des temps de finition pour les marathoniens qualifiés aux JO de Paris 2024.
 - Présentation des podiums prévus pour les hommes et les femmes.
 
-
 <img width="637" alt="Podium" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/de37e6eb-4284-495e-9d23-a67789274a0f">
-
 
 ### Compétences Techniques Acquises
 - Collecte de données à partir de différentes sources (Kaggle, WebScrapping).
