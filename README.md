@@ -19,6 +19,7 @@ L'objectif principal de ce projet était de prédire le finish time des marathon
 - Récupération de données sur les athlètes via le site World Athletics à l'aide du WebScrapping avec Python.
 - Extraction d'informations sur les marathons majeurs à travers le WebScrapping sur les sites des résultats.
 
+![Athletes men](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/38e4962f-e15b-4aff-be00-6c2daf4ac756)
 
      
 ### Stockage et Nettoyage des Données
