@@ -69,3 +69,45 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 
 Ce projet démontre ma capacité à gérer le cycle complet d'un projet de Data Analyse, depuis la collecte des données jusqu'à la présentation des résultats. 
 Mes compétences techniques en manipulation de données, visualisation et modélisation prédictive sont mises en avant à travers les différentes étapes de ce projet. 
+
+
+# Projet 2 : Perception du Temps de Trajet chez les Étudiants 🚗
+
+## Introduction
+
+Dans le cadre de mon Master et plus précisément d'un cours de recherche en management, j'ai entrepris une étude sur la perception du temps de trajet chez les étudiants. Cette recherche visait à comprendre les différents facteurs qui peuvent influencer la perception du temps de trajet. À travers ce projet, j'ai développé des compétences en collecte et analyse de données ainsi que ma capacité à formuler et explorer des questions de recherches.
+
+## Objectif 🎯
+
+L'objectif principal de cette étude était d'analyser comment les activités réalisées pendant un trajet influent sur la perception du temps de transport chez les étudiants en Master. En mettant en place une méthodologie rigoureuse, j'ai cherché à identifier les variables significatives qui modifient cette perception, afin de fournir des recommandations pratiques pour améliorer l'expérience de trajet.
+
+## Étapes du Projet ⛰️
+* Cadre Conceptuel et Formulation de la Problématique :
+Définition de la question de recherche et du cadre conceptuel de l'étude, en collaboration avec mes collègues de groupe.
+* Collecte et Structuration des Données :
+Développement d'un questionnaire détaillé pour recueillir des données sur les habitudes de trajet des étudiants.
+Utilisation de techniques de sondage et de collecte d'informations pertinentes pour notre analyse.
+* Analyse des Données :
+Utilisation de R pour l'analyse statistique des données recueillies.
+Exploration des relations entre les variables et identification des facteurs significatifs influençant la perception du temps de trajet.
+* Modélisation et Interprétation :
+Construction de modèles pour prédire la perception du temps de trajet en fonction des activités réalisées pendant le trajet.
+Évaluation des performances des modèles et interprétation des résultats.
+* Présentation des Résultats :
+Communication des conclusions de l'étude, y compris les recommandations pratiques pour améliorer la perception du temps de trajet chez les étudiants en Master.
+
+### Compétences Techniques Acquises
+
+✅ Formulation de questions de recherche pertinentes et définition d'un cadre conceptuel solide.
+
+✅ Développement et administration d'un questionnaire pour la collecte de données.
+
+✅ Analyse statistique des données avec R pour identifier les relations et les facteurs significatifs.
+
+✅ Construction de modèles prédictifs pour comprendre et prédire la perception du temps de trajet.
+
+✅ Communication efficace des résultats à un public varié, y compris mes collègues et mes enseignants.
+
+Conclusion 📊
+
+Ce projet démontre ma capacité à mener une recherche approfondie dans le domaine de la gestion, en utilisant des méthodes quantitatives pour explorer des questions complexes. Mes compétences en collecte et analyse de données ainsi que ma capacité à interpréter et communiquer des résultats sont essentielles pour aborder des défis liés à la gestion des transports et de la mobilité urbaine.
