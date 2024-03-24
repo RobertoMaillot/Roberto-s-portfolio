@@ -108,7 +108,7 @@ Conclusion 📊
 Ce projet démontre ma capacité à mener une recherche approfondie dans le domaine de la gestion, en utilisant des méthodes quantitatives pour explorer des questions complexes. Mes compétences en collecte et analyse de données ainsi que ma capacité à interpréter et communiquer des résultats sont essentielles pour aborder des défis liés à la gestion des transports et de la mobilité urbaine.
 
 
-## Projet 3 : Prédiction de la durée de la carrière des joueurs de NBA 🏀
+# Projet 3 : Prédiction de la durée de la carrière des joueurs de NBA 🏀
 
 ## Introduction :
 Dans le cadre de mon master et plus précisément de mon cours de Big data, j'ai réalisé un projet complet visant à prédire la durée de carrière des basketteurs professionnels. Ce projet illustre mes compétences en collecte de données, nettoyage, modélisation prédictive et communication des résultats.
