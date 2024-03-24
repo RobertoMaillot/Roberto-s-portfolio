@@ -106,89 +106,10 @@ Communication des conclusions de l'étude, y compris les recommandations pratiqu
 
 ✅ Construction de modèles prédictifs pour comprendre et prédire la perception du temps de trajet.
 
-✅ Communication efficace des résultats à un public varié, y compris mes collègues et mes enseignants.
+✅ Communication efficace des résultats à un public varié
 
 Conclusion 📊
 
 Ce projet démontre ma capacité à mener une recherche approfondie dans le domaine de la gestion, en utilisant des méthodes quantitatives pour explorer des questions complexes. Mes compétences en collecte et analyse de données ainsi que ma capacité à interpréter et communiquer des résultats sont essentielles pour aborder des défis liés à la gestion des transports et de la mobilité urbaine.
 
 
-## Projet 3 : Prédiction de la Durée de Carrière des Basketteurs 🏀
-
-## Introduction :
-
-Dans le cadre de ma formation en Data Analyse, j'ai réalisé un projet complet visant à prédire la durée de carrière des basketteurs professionnels. Ce projet illustre mes compétences en collecte de données, nettoyage, modélisation prédictive et communication des résultats.
-
-## Objectif 🎯 :
-
-L'objectif principal de ce projet était de développer un modèle prédictif capable de déterminer si un joueur de basket-ball aura une carrière professionnelle de plus de cinq ans. En utilisant des données historiques sur les performances des joueurs, des caractéristiques individuelles et des statistiques de match, j'ai entraîné plusieurs modèles et évalué leur performance pour prédire le succès futur des joueurs.
-
-
-## Étapes du Projet ⛰️ :
-
-### Collecte de Données :
-* Collecte de données sur les carrières des joueurs via des sources en ligne et des bases de données sportives.
-* Nettoyage et structuration des données pour préparer l'ensemble de données pour l'analyse.
-### Exploration des Données :
-* Analyse exploratoire pour comprendre les tendances et les relations entre les variables.
-* Visualisation des données pour identifier les caractéristiques importantes des joueurs à prendre en compte dans la modélisation.
-python
-
-Copy code
-import matplotlib.pyplot as plt
-
-# Affichage du graphique d'importance des variables
-feat_importances.plot(kind='barh')
-plt.xlabel('Importance')
-plt.ylabel('Variables')
-plt.title('Importance des Variables dans la Prédiction de la Durée de Carrière')
-plt.show()
-
-### Modélisation Prédictive :
-* Entraînement de plusieurs modèles de machine learning, y compris Random Forest et LightGBM, pour prédire la durée de carrière des joueurs.
-* Évaluation des modèles en utilisant des métriques telles que l'AUC, le taux de succès et le taux d'erreur.
-python
-
-Copy code
-# Entrainement du modèle LGBM
-lgbm_modele.fit(X_train, y_train)
-
-# Prédiction sur la base train
-y_pred_train = lgbm_modele.predict(X_train)
-
-# Prédiction sur la base test
-y_pred_test = lgbm_modele.predict(X_test)
-
-### Analyse des Résultats :
-* Interprétation des caractéristiques les plus importantes pour prédire le succès des joueurs.
-* Comparaison des performances des différents modèles pour sélectionner le meilleur modèle.
-python
-
-Copy code
-import pandas as pd
-
-# Comparaison des résultats entre la base train et la base test
-compare_results = pd.DataFrame({'Base Train': [accuracy_score(y_train, y_pred_train), roc_auc_score(y_train, y_proba_pred_train)],
-                                'Base Test': [accuracy_score(y_test, y_pred_test), roc_auc_score(y_test, y_proba_pred_test)]},
-                               index=['Accuracy', 'ROC AUC Score'])
-compare_results
-
-## Conclusion et Prédictions :
-* Sélection du modèle le plus performant pour prédire la durée de carrière des joueurs.
-* Prédiction de la durée de carrière des joueurs actuels et présentation des résultats.
-
-## Compétences Techniques Acquises :
-
-✅Collecte et nettoyage de données
-
-✅Exploration des données et visualisation pour identifier des tendances et des caractéristiques importantes.
-
-✅Modélisation prédictive avec des techniques avancées de machine learning telles que Random Forest et LightGBM.
-
-✅Évaluation et interprétation des modèles pour prendre des décisions éclairées.
-
-✅Communication des résultats devant un public 
-
-## Conclusion 📊 :
-
-Ce projet met en lumière mes compétences en Data Analyse et en modélisation prédictive, ainsi que ma capacité à résoudre des problèmes réels en utilisant des techniques avancées d'apprentissage automatique. En déterminant les facteurs clés qui influent sur la durée de carrière des joueurs de basket-ball, ce projet offre des informations précieuses pour les équipes et les recruteurs dans le domaine du sport professionnel.
