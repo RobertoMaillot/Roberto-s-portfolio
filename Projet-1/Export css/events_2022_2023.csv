@@ -1,0 +1,335 @@
+Rank,meeting_name,country,Start Date,End Date,Participation Score,Result Score,Competition Score,Event URL
+1,"Bank of America Chicago Marathon, Chicago, IL",USA,08 OCT 2023,08 OCT 2023,500,10179,10799,https://www.worldathletics.orgNot found
+2,"TCS London Marathon, London",GBR,23 APR 2023,23 APR 2023,670,10040,10710,https://www.worldathletics.orgNot found
+3,"BMW Berlin Marathon, Berlin",GER,24 SEP 2023,24 SEP 2023,275,10158,10553,https://www.worldathletics.orgNot found
+4,"Maraton Valencia Trinidad Alfonso, Valencia",ESP,03 DEC 2023,03 DEC 2023,230,10150,10380,https://www.worldathletics.orgNot found
+5,"B.A.A. Boston Marathon, Boston, MA",USA,17 APR 2023,17 APR 2023,620,9598,10218,https://www.worldathletics.orgNot found
+6,"Tokyo Marathon, Tokyo",JPN,05 MAR 2023,05 MAR 2023,220,9959,10179,https://www.worldathletics.orgNot found
+7,"TCS Amsterdam Marathon, Amsterdam",NED,15 OCT 2023,15 OCT 2023,110,9958,10068,https://www.worldathletics.orgNot found
+8,"NN Marathon Rotterdam, Rotterdam",NED,16 APR 2023,16 APR 2023,210,9835,10045,https://www.worldathletics.orgNot found
+9,"Zurich Marato Barcelona, Barcelona",ESP,19 MAR 2023,19 MAR 2023,20,9860,9880,https://www.worldathletics.orgNot found
+10,"37. Haspa Marathon Hamburg, Hamburg",GER,23 APR 2023,23 APR 2023,35,9844,9879,https://www.worldathletics.orgNot found
+11,"Shanghai Marathon, Shanghai",CHN,26 NOV 2023,26 NOV 2023,90,9780,9870,https://www.worldathletics.orgNot found
+12,"Zurich Maraton de Sevilla, Sevilla",ESP,19 FEB 2023,19 FEB 2023,10,9834,9844,https://www.worldathletics.orgNot found
+13,"Dubai Marathon, Dubai",UAE,12 FEB 2023,12 FEB 2023,30,9785,9815,https://www.worldathletics.orgNot found
+14,"Mainova Frankfurt Marathon, Frankfurt",GER,29 OCT 2023,29 OCT 2023,50,9732,9782,https://www.worldathletics.orgNot found
+15,"Osaka Marathon, Osaka",JPN,26 FEB 2023,26 FEB 2023,60,9721,9781,https://www.worldathletics.orgNot found
+16,"TCS New York Marathon, New York, NY",USA,05 NOV 2023,05 NOV 2023,330,9446,9776,https://www.worldathletics.orgNot found
+17,"Ooredoo Doha Marathon, Doha",QAT,20 JAN 2023,20 JAN 2023,15,9716,9731,https://www.worldathletics.orgNot found
+18,"Prague Marathon, Praha",CZE,07 MAY 2023,07 MAY 2023,65,9644,9709,https://www.worldathletics.orgNot found
+19,"Schneider Electric Marathon de Paris, Paris",FRA,02 APR 2023,02 APR 2023,65,9597,9662,https://www.worldathletics.orgNot found
+20,"2023 Beike Beijing Marathon, Beijing",CHN,29 OCT 2023,29 OCT 2023,40,9601,9641,https://www.worldathletics.orgNot found
+21,"Vienna City Marathon, Wien",AUT,23 APR 2023,23 APR 2023,10,9568,9578,https://www.worldathletics.orgNot found
+22,"Košice Peace Marathon, Košice",SVK,01 OCT 2023,01 OCT 2023,35,9525,9560,https://www.worldathletics.orgNot found
+23,"Daegu International Marathon, Daegu",KOR,02 APR 2023,02 APR 2023,30,9517,9547,https://www.worldathletics.orgNot found
+24,"Marathon Grand Championship - Paris 24 Selection Race, Tokyo",JPN,15 OCT 2023,15 OCT 2023,90,9438,9528,https://www.worldathletics.orgNot found
+25,"Seoul Marathon - Men's Race, Seoul",KOR,19 MAR 2023,19 MAR 2023,35,9468,9503,https://www.worldathletics.orgNot found
+26,"ADNOC Abu Dhabi Marathon, Abu Dhabi",UAE,16 DEC 2023,16 DEC 2023,70,9422,9492,https://www.worldathletics.orgNot found
+27,"TCS Toronto Waterfront Marathon, Toronto",CAN,15 OCT 2023,15 OCT 2023,20,9436,9456,https://www.worldathletics.orgNot found
+28,"Milano Marathon, Milano",ITA,02 APR 2023,02 APR 2023,0,9438,9438,https://www.worldathletics.orgNot found
+29,"C&D Xiamen Marathon, Xiamen",CHN,02 APR 2023,02 APR 2023,25,9402,9427,https://www.worldathletics.orgNot found
+30,"Enschede Marathon, Enschede",NED,16 APR 2023,16 APR 2023,0,9426,9426,https://www.worldathletics.orgNot found
+31,"Tata Mumbai Marathon, Mumbai",IND,15 JAN 2023,15 JAN 2023,35,9383,9418,https://www.worldathletics.orgNot found
+32,"Wuxi Marathon, Wuxi",CHN,19 MAR 2023,19 MAR 2023,10,9403,9413,https://www.worldathletics.orgNot found
+33,"Yellow River Estuary Marathon, Dongying",CHN,22 OCT 2023,22 OCT 2023,35,9377,9412,https://www.worldathletics.orgNot found
+34,"ASML Marathon Eindhoven, Eindhoven",NED,08 OCT 2023,08 OCT 2023,5,9403,9408,https://www.worldathletics.orgNot found
+35,"Sydney Marathon, presented by Asics, Sydney",AUS,17 SEP 2023,17 SEP 2023,130,9267,9397,https://www.worldathletics.orgNot found
+36,"Run Rome The Marathon, Roma",ITA,19 MAR 2023,19 MAR 2023,0,9373,9373,https://www.worldathletics.orgNot found
+37,"Venice Marathon, Venezia",ITA,22 OCT 2023,22 OCT 2023,0,9366,9366,https://www.worldathletics.orgNot found
+38,"Hannover Marathon, Hannover",GER,26 MAR 2023,26 MAR 2023,25,9321,9346,https://www.worldathletics.orgNot found
+39,"Chevron Houston Marathon, Houston, TX",USA,15 JAN 2023,15 JAN 2023,10,9325,9335,https://www.worldathletics.orgNot found
+39,"Marathon International de Rabat, Rabat",MAR,30 APR 2023,30 APR 2023,20,9315,9335,https://www.worldathletics.orgNot found
+39,"Maratón de Buenos Aires Ñandú, Buenos Aires",ARG,24 SEP 2023,24 SEP 2023,5,9330,9335,https://www.worldathletics.orgNot found
+42,"Gold Coast Marathon, Gold Coast",AUS,02 JUL 2023,02 JUL 2023,5,9327,9332,https://www.worldathletics.orgNot found
+43,"Tartan Homes Ottawa International Marathon, Ottawa",CAN,28 MAY 2023,28 MAY 2023,80,9242,9322,https://www.worldathletics.orgNot found
+44,"Copenhagen Marathon, København",DEN,14 MAY 2023,14 MAY 2023,0,9296,9296,https://www.worldathletics.orgNot found
+45,"Riyadh Marathon, Riyadh",KSA,11 FEB 2023,11 FEB 2023,0,9289,9289,https://www.worldathletics.orgNot found
+46,"International Mersin Marathon, Mersin",TUR,10 DEC 2023,10 DEC 2023,0,9277,9277,https://www.worldathletics.orgNot found
+47,"Grandma's Marathon, Duluth, MN",USA,17 JUN 2023,17 JUN 2023,0,9273,9273,https://www.worldathletics.orgNot found
+48,"International Marathon de Marrakech, Marrakesh",MAR,29 JAN 2023,29 JAN 2023,0,9258,9258,https://www.worldathletics.orgNot found
+49,"Shenzhen Marathon, Shenzhen",CHN,03 DEC 2023,03 DEC 2023,25,9232,9257,https://www.worldathletics.orgNot found
+50,"Irish Life Dublin Marathon, Dublin",IRL,29 OCT 2023,29 OCT 2023,0,9247,9247,https://www.worldathletics.orgNot found
+51,"Taiyuan Marathon, Taiyuan",CHN,21 MAY 2023,21 MAY 2023,0,9240,9240,https://www.worldathletics.orgNot found
+52,"Standard Chartered Nairobi Marathon, Nairobi",KEN,29 OCT 2023,29 OCT 2023,0,9238,9238,https://www.worldathletics.orgNot found
+53,"Sanlam Cape Town Marathon, Cape Town",RSA,15 OCT 2023,15 OCT 2023,10,9216,9226,https://www.worldathletics.orgNot found
+54,"Chengdu Marathon, Chengdu",CHN,29 OCT 2023,29 OCT 2023,5,9194,9199,https://www.worldathletics.orgNot found
+55,"Zürich Marathon, Zürich",SUI,23 APR 2023,23 APR 2023,10,9179,9189,https://www.worldathletics.orgNot found
+56,"Changsha Marathon, Changsha",CHN,29 OCT 2023,29 OCT 2023,35,9146,9181,https://www.worldathletics.orgNot found
+57,"The 33rd Dalian Marathon, Dalian",CHN,15 OCT 2023,15 OCT 2023,10,9169,9179,https://www.worldathletics.orgNot found
+58,"Buriram Marathon Presented by Chang, Buri Ram",THA,21 JAN 2023,21 JAN 2023,5,9170,9175,https://www.worldathletics.orgNot found
+59,"Poznan Marathon, Poznan",POL,22 OCT 2023,22 OCT 2023,0,9162,9162,https://www.worldathletics.orgNot found
+60,"Oberbank Linz Donau Marathon, Linz",AUT,16 APR 2023,16 APR 2023,0,9143,9143,https://www.worldathletics.orgNot found
+61,"Lanzhou Marathon, Lanzhou",CHN,11 JUN 2023,11 JUN 2023,20,9115,9135,https://www.worldathletics.orgNot found
+62,"Nanchang Marathon, Nanchang",CHN,12 NOV 2023,12 NOV 2023,0,9125,9125,https://www.worldathletics.orgNot found
+63,"Hofu Yomiuri Marathon, Hofu",JPN,03 DEC 2023,03 DEC 2023,0,9113,9113,https://www.worldathletics.orgNot found
+64,"Beppu-Oita Mainichi Marathon, Beppu",JPN,05 FEB 2023,05 FEB 2023,5,9099,9104,https://www.worldathletics.orgNot found
+65,"Maratón BP Castellón, Castellón",ESP,26 FEB 2023,26 FEB 2023,0,9090,9090,https://www.worldathletics.orgNot found
+66,"Harbin Marathon, Harbin",CHN,27 AUG 2023,27 AUG 2023,0,9089,9089,https://www.worldathletics.orgNot found
+67,"XL Maratón de la Ciudad de México Telcel 2023, Ciudad de México",MEX,27 AUG 2023,27 AUG 2023,20,9068,9088,https://www.worldathletics.orgNot found
+68,"Zurich Rock 'n' Roll Running Series Madrid Maraton, Madrid",ESP,23 APR 2023,23 APR 2023,0,9062,9062,https://www.worldathletics.orgNot found
+69,"Taipei Marathon, Taipei City",TPE,17 DEC 2023,17 DEC 2023,0,9052,9052,https://www.worldathletics.orgNot found
+70,"Changan Automo Chongqing Marathon, Chongqing",CHN,19 MAR 2023,19 MAR 2023,0,9030,9030,https://www.worldathletics.orgNot found
+71,"JTBC Seoul Marathon, Seoul",KOR,05 NOV 2023,05 NOV 2023,10,9019,9029,https://www.worldathletics.orgNot found
+72,"Fuzhou Marathon, Fuzhou",CHN,17 DEC 2023,17 DEC 2023,0,9015,9015,https://www.worldathletics.orgNot found
+73,"Istanbul Marathon, Istanbul",TUR,05 NOV 2023,05 NOV 2023,0,9003,9003,https://www.worldathletics.orgNot found
+74,"McKirdy Micro - On the Cusp - Marathon, Valley Cottage, NY",USA,14 OCT 2023,14 OCT 2023,0,8998,8998,https://www.worldathletics.orgNot found
+75,"New Taipei City Wan Jin Shi Marathon, New Taipei City",TPE,19 MAR 2023,19 MAR 2023,25,8947,8972,https://www.worldathletics.orgNot found
+75,"Sleemon Shaoxing Marathon, Shaoxing",CHN,26 NOV 2023,26 NOV 2023,0,8972,8972,https://www.worldathletics.orgNot found
+77,"21. Volksbank-Münster-Marathon, Münster",GER,03 SEP 2023,03 SEP 2023,0,8961,8961,https://www.worldathletics.orgNot found
+78,"39^ Firenze Marathon, Firenze",ITA,26 NOV 2023,26 NOV 2023,0,8958,8958,https://www.worldathletics.orgNot found
+79,"Jilin City International Marathon, Jilin",CHN,11 JUN 2023,11 JUN 2023,0,8957,8957,https://www.worldathletics.orgNot found
+79,"Maratón de Málaga, Málaga",ESP,10 DEC 2023,10 DEC 2023,0,8957,8957,https://www.worldathletics.orgNot found
+81,"Suzhou Taihu Marathon, Suzhou",CHN,22 OCT 2023,22 OCT 2023,0,8934,8934,https://www.worldathletics.orgNot found
+82,"Generali Geneve Marathon, Genève",SUI,07 MAY 2023,07 MAY 2023,0,8917,8917,https://www.worldathletics.orgNot found
+83,"adidas Stockholm Marathon, Stockholm",SWE,03 JUN 2023,03 JUN 2023,10,8899,8909,https://www.worldathletics.orgNot found
+84,"Izmir Marathon, Izmir",TUR,07 MAY 2023,07 MAY 2023,0,8902,8902,https://www.worldathletics.orgNot found
+85,"Guangzhou Marathon, Guangzhou",CHN,10 DEC 2023,10 DEC 2023,0,8887,8887,https://www.worldathletics.orgNot found
+86,"Standard Chartered Hong Kong Marathon, Hong Kong",HKG,12 FEB 2023,12 FEB 2023,20,8857,8877,https://www.worldathletics.orgNot found
+86,"Durban International Marathon, Durban",RSA,12 MAR 2023,12 MAR 2023,0,8877,8877,https://www.worldathletics.orgNot found
+88,"Marathon de la Rochelle, La Rochelle",FRA,26 NOV 2023,26 NOV 2023,0,8859,8859,https://www.worldathletics.orgNot found
+89,"Wuhan Marathon, Wuhan",CHN,16 APR 2023,16 APR 2023,0,8840,8840,https://www.worldathletics.orgNot found
+90,"Hangzhou Marathon, Hangzhou",CHN,17 DEC 2023,17 DEC 2023,0,8801,8801,https://www.worldathletics.orgNot found
+91,"Kobe Marathon, Kobe",JPN,19 NOV 2023,19 NOV 2023,0,8775,8775,https://www.worldathletics.orgNot found
+92,"Xuzhou Marathon, Xuzhou",CHN,05 NOV 2023,05 NOV 2023,0,8770,8770,https://www.worldathletics.orgNot found
+93,"Marathon COMAR de Tunis Carthage, Tunis",TUN,03 DEC 2023,03 DEC 2023,0,8761,8761,https://www.worldathletics.orgNot found
+94,"California International Marathon, Sacramento, CA",USA,03 DEC 2023,03 DEC 2023,0,8755,8755,https://www.worldathletics.orgNot found
+95,"Athens Marathon - The Authentic, Athina",GRE,12 NOV 2023,12 NOV 2023,0,8750,8750,https://www.worldathletics.orgNot found
+96,"Cereales Angel Marathon Lima42K, Lima",PER,21 MAY 2023,21 MAY 2023,0,8747,8747,https://www.worldathletics.orgNot found
+97,"25th Nagano Marathon, Nagano",JPN,23 APR 2023,23 APR 2023,10,8734,8744,https://www.worldathletics.orgNot found
+98,"Torino City Marathon, Torino",ITA,05 NOV 2023,05 NOV 2023,0,8740,8740,https://www.worldathletics.orgNot found
+99,"Kuala Lumpur Standard Chartered Marathon, Kuala Lumpur",MAS,01 OCT 2023,01 OCT 2023,0,8733,8733,https://www.worldathletics.orgNot found
+100,"Gyeongju International Marathon, Gyeongju",KOR,22 OCT 2023,22 OCT 2023,0,8709,8709,https://www.worldathletics.orgNot found
+101,"Tallinn Marathon, Tallinn",EST,10 SEP 2023,10 SEP 2023,0,8708,8708,https://www.worldathletics.orgNot found
+102,"White Nights Marathon, St. Petersburg",RUS,11 JUN 2023,11 JUN 2023,0,8707,8707,https://www.worldathletics.orgNot found
+103,"Moscow Marathon, Moskva",RUS,17 SEP 2023,17 SEP 2023,0,8693,8693,https://www.worldathletics.orgNot found
+104,"Shenyang Marathon, Shenyang",CHN,24 SEP 2023,24 SEP 2023,0,8682,8682,https://www.worldathletics.orgNot found
+105,"Maratón Internacional Guadalajara, Guadalajara",MEX,05 NOV 2023,05 NOV 2023,0,8678,8678,https://www.worldathletics.orgNot found
+106,"SCO Kunming Marathon, Kunming",CHN,31 DEC 2023,31 DEC 2023,0,8664,8664,https://www.worldathletics.orgNot found
+107,"Qingdao Marathon, Qingdao",CHN,22 APR 2023,22 APR 2023,0,8653,8653,https://www.worldathletics.orgNot found
+108,"Maratón Powerade Monterrey, Monterrey",MEX,10 DEC 2023,10 DEC 2023,5,8610,8615,https://www.worldathletics.orgNot found
+109,"Belgrade Marathon, Beograd",SRB,23 APR 2023,23 APR 2023,0,8586,8586,https://www.worldathletics.orgNot found
+110,"Maybank Marathon, Bali",INA,27 AUG 2023,27 AUG 2023,0,8576,8576,https://www.worldathletics.orgNot found
+111,"EDP Maratona do Porto, Porto",POR,05 NOV 2023,05 NOV 2023,0,8548,8548,https://www.worldathletics.orgNot found
+112,"Shenzhen Baoan International Marathon, Shenzhen",CHN,31 DEC 2023,31 DEC 2023,0,8539,8539,https://www.worldathletics.orgNot found
+113,"Cool City Liupanshui Summer Marathon, Liupanshui",CHN,16 JUL 2023,16 JUL 2023,0,8538,8538,https://www.worldathletics.orgNot found
+114,"Padova Marathon, Padova",ITA,23 APR 2023,23 APR 2023,0,8537,8537,https://www.worldathletics.orgNot found
+115,"57 Maraton Baja California, Mexicali",MEX,10 DEC 2023,10 DEC 2023,0,8534,8534,https://www.worldathletics.orgNot found
+116,"Standard Chartered Singapore Marathon, Singapore",SGP,03 DEC 2023,03 DEC 2023,20,8510,8530,https://www.worldathletics.orgNot found
+117,"Bangsaen42 Chonburi Marathon, Chon Buri",THA,05 NOV 2023,05 NOV 2023,0,8516,8516,https://www.worldathletics.orgNot found
+118,"Russian Marathon Championships, Pushkin, St. Petersburg",RUS,14 MAY 2023,14 MAY 2023,0,8509,8509,https://www.worldathletics.orgNot found
+119,"Italian Marathon Championships, Verona",ITA,19 NOV 2023,19 NOV 2023,0,8497,8497,https://www.worldathletics.orgNot found
+120,"Yichang Marathon, Yichang",CHN,30 APR 2023,30 APR 2023,0,8451,8451,https://www.worldathletics.orgNot found
+121,"Kigali International Peace Marathon, Kigali",RWA,11 JUN 2023,11 JUN 2023,20,8419,8439,https://www.worldathletics.orgNot found
+122,"Nationale-Nederlanden Maraton Warszawski, Warszawa",POL,24 SEP 2023,24 SEP 2023,0,8421,8421,https://www.worldathletics.orgNot found
+123,"Changde Liuye Lake Marathon, Changde",CHN,29 OCT 2023,29 OCT 2023,0,8364,8364,https://www.worldathletics.orgNot found
+124,"Access Bank Lagos City Marathon, Lagos",NGR,04 FEB 2023,04 FEB 2023,0,8361,8361,https://www.worldathletics.orgNot found
+125,"Pan American Marathon Championships, Caracas",VEN,19 MAR 2023,19 MAR 2023,0,8352,8352,https://www.worldathletics.orgNot found
+125,"Korean Marathon Championships, Chuncheon",KOR,29 OCT 2023,29 OCT 2023,0,8352,8352,https://www.worldathletics.orgNot found
+127,"Honolulu Marathon, Kapiolani Park, Honolulu, HI",USA,10 DEC 2023,10 DEC 2023,5,8338,8343,https://www.worldathletics.orgNot found
+128,"Nike Melbourne Marathon Festival, Cricket Ground, Melbourne",AUS,15 OCT 2023,15 OCT 2023,0,8342,8342,https://www.worldathletics.orgNot found
+129,"Mann Filter Maratón de Zaragoza Caixabank, Zaragoza",ESP,16 APR 2023,16 APR 2023,0,8311,8311,https://www.worldathletics.orgNot found
+130,"Gunsan Saemangeum International Marathon, Gunsan",KOR,09 APR 2023,09 APR 2023,0,8304,8304,https://www.worldathletics.orgNot found
+131,"Generali Köln Marathon, Köln",GER,01 OCT 2023,01 OCT 2023,0,8287,8287,https://www.worldathletics.orgNot found
+132,"Maratona da Cidade do Rio de Janeiro, Rio de Janeiro",BRA,11 JUN 2023,11 JUN 2023,0,8286,8286,https://www.worldathletics.orgNot found
+133,"Xi'an Marathon, Xi'an",CHN,29 OCT 2023,29 OCT 2023,0,8280,8280,https://www.worldathletics.orgNot found
+134,"Wizz Air Sofia Marathon, Sofia",BUL,08 OCT 2023,08 OCT 2023,0,8252,8252,https://www.worldathletics.orgNot found
+135,"NBC Dodoma Marathon, Dodoma",TAN,23 JUL 2023,23 JUL 2023,0,8248,8248,https://www.worldathletics.orgNot found
+136,"JUNLEBAO Zheng-Kai International Marathon, Zhengzhou",CHN,16 APR 2023,16 APR 2023,0,8199,8199,https://www.worldathletics.orgNot found
+137,"Marathon Vert Rennes Konica Minolta, Rennes",FRA,22 OCT 2023,22 OCT 2023,0,8197,8197,https://www.worldathletics.orgNot found
+138,"Maratón Lala, Torreón",MEX,05 MAR 2023,05 MAR 2023,0,8115,8115,https://www.worldathletics.orgNot found
+139,"Tel Aviv Marathon, Tel Aviv",ISR,24 FEB 2023,24 FEB 2023,0,8067,8067,https://www.worldathletics.orgNot found
+140,"Tokushima Marathon 2023, Tokushima",JPN,19 MAR 2023,19 MAR 2023,20,8034,8054,https://www.worldathletics.orgNot found
+141,"Kaohsiung Fubon Marathon, National Stadium, Kaohsiung",TPE,26 NOV 2023,26 NOV 2023,0,8007,8007,https://www.worldathletics.orgNot found
+142,"Hokkaido Marathon, Sapporo",JPN,27 AUG 2023,27 AUG 2023,0,7931,7931,https://www.worldathletics.orgNot found
+143,"27ª Maratona Int’l de São Paulo, Sao Paolo",BRA,02 APR 2023,02 APR 2023,0,7915,7915,https://www.worldathletics.orgNot found
+144,"Maratona di Reggio Emilia - Città del Tricolore, Reggio Emilia",ITA,10 DEC 2023,10 DEC 2023,0,7851,7851,https://www.worldathletics.orgNot found
+145,"Curitiba Marathon, Curitiba",BRA,19 NOV 2023,19 NOV 2023,0,7846,7846,https://www.worldathletics.orgNot found
+146,"Maratón León, León",MEX,24 SEP 2023,24 SEP 2023,0,7822,7822,https://www.worldathletics.orgNot found
+147,"Maratón Puebla, Puebla",MEX,26 NOV 2023,26 NOV 2023,0,7771,7771,https://www.worldathletics.orgNot found
+148,"Finnish Marathon Championships, Vantaa",FIN,14 OCT 2023,14 OCT 2023,0,7762,7762,https://www.worldathletics.orgNot found
+149,"Shijiazhuang Marathon, Shijiazhuang",CHN,02 APR 2023,02 APR 2023,0,7743,7743,https://www.worldathletics.orgNot found
+150,"BMO Vancouver Marathon, Vancouver",CAN,07 MAY 2023,07 MAY 2023,0,7718,7718,https://www.worldathletics.orgNot found
+151,"Belfast City Marathon, Belfast",GBR,30 APR 2023,30 APR 2023,0,7704,7704,https://www.worldathletics.orgNot found
+152,"Zhoushan Islands Marathon, Zhoushan",CHN,19 NOV 2023,19 NOV 2023,0,7684,7684,https://www.worldathletics.orgNot found
+153,"Maratona da Europa, Aveiro",POR,23 APR 2023,23 APR 2023,0,7648,7648,https://www.worldathletics.orgNot found
+154,"Amazing Thailand Marathon Bangkok presented by Toyota, Bangkok",THA,03 DEC 2023,03 DEC 2023,0,7580,7580,https://www.worldathletics.orgNot found
+155,"FNB Kazungula Bridge Marathon, Kazungula",BOT,25 FEB 2023,25 FEB 2023,0,7557,7557,https://www.worldathletics.orgNot found
+156,"BMO Vancouver Half Marathon, Vancouver",CAN,07 MAY 2023,07 MAY 2023,0,7537,7537,https://www.worldathletics.orgNot found
+157,"Jakarta Marathon, Jakarta",INA,22 OCT 2023,22 OCT 2023,0,7525,7525,https://www.worldathletics.orgNot found
+158,"Perm Marathon, Perm",RUS,02 SEP 2023,02 SEP 2023,0,7514,7514,https://www.worldathletics.orgNot found
+159,"Oslo Marathon, Oslo",NOR,16 SEP 2023,16 SEP 2023,0,7465,7465,https://www.worldathletics.orgNot found
+160,"Gran Canaria Maspalomas Marathon, San Fernando de Maspalomas",ESP,19 NOV 2023,19 NOV 2023,0,7464,7464,https://www.worldathletics.orgNot found
+161,"Marathon d'Annecy, Annecy",FRA,16 APR 2023,16 APR 2023,0,7443,7443,https://www.worldathletics.orgNot found
+162,"Raiffeisen Bank Bucharest Marathon, Bucureşti",ROU,15 OCT 2023,15 OCT 2023,0,7419,7419,https://www.worldathletics.orgNot found
+163,"Skopje Marathon, Skopje",MKD,01 OCT 2023,01 OCT 2023,0,7391,7391,https://www.worldathletics.orgNot found
+164,"Marathon des Alpes-Maritimes Nice-Cannes, Nice",FRA,05 NOV 2023,05 NOV 2023,0,7384,7384,https://www.worldathletics.orgNot found
+165,"Romanian Marathon Championships, Timisoara",ROU,22 OCT 2023,22 OCT 2023,0,7357,7357,https://www.worldathletics.orgNot found
+166,"Yangling Marathon, Yangling",CHN,09 APR 2023,09 APR 2023,0,7323,7323,https://www.worldathletics.orgNot found
+167,"Perth Running Festival- WA State Marathon Championships, Perth",AUS,08 OCT 2023,08 OCT 2023,0,7303,7303,https://www.worldathletics.orgNot found
+168,"Salvador Marathon, Salvador",BRA,24 SEP 2023,24 SEP 2023,0,7261,7261,https://www.worldathletics.orgNot found
+169,"Kazan Marathon, Kazan",RUS,21 MAY 2023,21 MAY 2023,0,7230,7230,https://www.worldathletics.orgNot found
+170,"Varna Marathon, Varna",BUL,14 MAY 2023,14 MAY 2023,0,7225,7225,https://www.worldathletics.orgNot found
+171,"Sao Paulo City Marathon, Praça Charles Muller/Jockey Clube de SP, São Paulo",BRA,30 JUL 2023,30 JUL 2023,0,7202,7202,https://www.worldathletics.orgNot found
+172,"Rimi Riga Marathon, Riga",LAT,07 MAY 2023,07 MAY 2023,0,7144,7144,https://www.worldathletics.orgNot found
+173,"Kazakh Marathon Championships, Almaty",KAZ,01 OCT 2023,01 OCT 2023,0,7111,7111,https://www.worldathletics.orgNot found
+174,"Guilin Marathon, Guilin",CHN,26 MAR 2023,26 MAR 2023,0,7043,7043,https://www.worldathletics.orgNot found
+175,"Tashkent International Marathon, Tashkent",UZB,12 MAR 2023,12 MAR 2023,0,7030,7030,https://www.worldathletics.orgNot found
+176,"FirstEnergy Akron Marathon, Akron, OH",USA,30 SEP 2023,30 SEP 2023,0,6998,6998,https://www.worldathletics.orgNot found
+177,"Zagreb Marathon, Zagreb",CRO,08 OCT 2023,08 OCT 2023,0,6960,6960,https://www.worldathletics.orgNot found
+178,"Chizhou Marathon, Chizhou",CHN,15 OCT 2023,15 OCT 2023,0,6956,6956,https://www.worldathletics.orgNot found
+1,"Tokyo Marathon, Tokyo",JPN,06 MAR 2022,06 MAR 2022,535,10086,10621,https://www.worldathletics.orgNot found
+2,"Maraton Valencia Trinidad Alfonso EDP, Valencia",ESP,04 DEC 2022,04 DEC 2022,245,10186,10431,https://www.worldathletics.orgNot found
+3,"B.A.A. Boston Marathon, Boston, MA",USA,18 APR 2022,18 APR 2022,830,9559,10389,https://www.worldathletics.orgNot found
+3,"BMW Berlin Marathon, Berlin",GER,25 SEP 2022,25 SEP 2022,255,10014,10389,https://www.worldathletics.orgNot found
+5,"TCS London Marathon, London",GBR,02 OCT 2022,02 OCT 2022,410,9978,10388,https://www.worldathletics.orgNot found
+6,"Bank of America Chicago Marathon, Chicago, IL",USA,09 OCT 2022,09 OCT 2022,350,9935,10285,https://www.worldathletics.orgNot found
+7,"Seoul Marathon, Seoul",KOR,17 APR 2022,17 APR 2022,165,9926,10091,https://www.worldathletics.orgNot found
+8,"NN Marathon Rotterdam, Rotterdam",NED,10 APR 2022,10 APR 2022,305,9772,10077,https://www.worldathletics.orgNot found
+9,"TCS Amsterdam Marathon, Amsterdam",NED,16 OCT 2022,16 OCT 2022,70,9983,10053,https://www.worldathletics.orgNot found
+10,"Schneider Electric Marathon de Paris, Paris",FRA,03 APR 2022,03 APR 2022,160,9809,9969,https://www.worldathletics.orgNot found
+11,"TCS New York City Marathon, New York, NY",USA,06 NOV 2022,06 NOV 2022,435,9473,9908,https://www.worldathletics.orgNot found
+12,"Zurich Maraton de Sevilla, Sevilla",ESP,20 FEB 2022,20 FEB 2022,40,9865,9905,https://www.worldathletics.orgNot found
+13,"Haspa Marathon, Hamburg",GER,24 APR 2022,24 APR 2022,25,9806,9831,https://www.worldathletics.orgNot found
+14,"Telepass Milano Marathon, Milano",ITA,03 APR 2022,03 APR 2022,40,9767,9807,https://www.worldathletics.orgNot found
+15,"ADNOC Abu Dhabi Marathon, Abu Dhabi",UAE,17 DEC 2022,17 DEC 2022,110,9647,9757,https://www.worldathletics.orgNot found
+16,"Zurich Marató de Barcelona, Barcelona",ESP,08 MAY 2022,08 MAY 2022,25,9693,9718,https://www.worldathletics.orgNot found
+17,"Blackmores Sydney Marathon, Sydney",AUS,18 SEP 2022,18 SEP 2022,180,9523,9703,https://www.worldathletics.orgNot found
+18,"Vienna City Marathon, Wien",AUT,24 APR 2022,24 APR 2022,0,9649,9649,https://www.worldathletics.orgNot found
+19,"Daegu International Marathon, Daegu",KOR,03 APR 2022,03 APR 2022,15,9629,9644,https://www.worldathletics.orgNot found
+20,"Košice Peace Marathon, Košice",SVK,02 OCT 2022,02 OCT 2022,10,9585,9595,https://www.worldathletics.orgNot found
+21,"Volkswagen Ljubljana Marathon, Ljubljana",SLO,23 OCT 2022,23 OCT 2022,20,9559,9579,https://www.worldathletics.orgNot found
+22,"Riyadh Marathon, Riyadh",KSA,05 MAR 2022,05 MAR 2022,65,9510,9575,https://www.worldathletics.orgNot found
+23,"Mainova Frankfurt Marathon, Frankfurt",GER,30 OCT 2022,30 OCT 2022,25,9545,9570,https://www.worldathletics.orgNot found
+24,"Enschede Marathon, Enschede",NED,24 APR 2022,24 APR 2022,25,9534,9559,https://www.worldathletics.orgNot found
+25,"TCS Toronto Waterfront Marathon, Toronto",CAN,16 OCT 2022,16 OCT 2022,20,9508,9528,https://www.worldathletics.orgNot found
+26,"Volkswagen Prague Marathon, Praha",CZE,08 MAY 2022,08 MAY 2022,10,9463,9473,https://www.worldathletics.orgNot found
+27,"ASML Marathon Eindhoven, Eindhoven",NED,09 OCT 2022,09 OCT 2022,0,9456,9456,https://www.worldathletics.orgNot found
+28,"Run Rome The Marathon, Roma",ITA,27 MAR 2022,27 MAR 2022,10,9435,9445,https://www.worldathletics.orgNot found
+29,"Copenhagen Marathon, København",DEN,15 MAY 2022,15 MAY 2022,0,9443,9443,https://www.worldathletics.orgNot found
+30,"Generali München Marathon, München",GER,09 OCT 2022,09 OCT 2022,0,9435,9435,https://www.worldathletics.orgNot found
+31,"Rock 'n' Roll Madrid Maraton, Madrid",ESP,24 APR 2022,24 APR 2022,0,9388,9388,https://www.worldathletics.orgNot found
+32,"Generali Maratón Málaga, Málaga",ESP,11 DEC 2022,11 DEC 2022,0,9332,9332,https://www.worldathletics.orgNot found
+33,"Grandma's Marathon, Duluth, MN",USA,18 JUN 2022,18 JUN 2022,0,9315,9315,https://www.worldathletics.orgNot found
+34,"Maratón BP Castellón, Castellón",ESP,27 FEB 2022,27 FEB 2022,5,9266,9271,https://www.worldathletics.orgNot found
+35,"Chevron Houston Marathon, Houston, TX",USA,16 JAN 2022,16 JAN 2022,35,9223,9258,https://www.worldathletics.orgNot found
+36,"Asics Firenze Marathon, Firenze",ITA,27 NOV 2022,27 NOV 2022,0,9255,9255,https://www.worldathletics.orgNot found
+37,"JTBC Seoul Marathon, Seoul",KOR,06 NOV 2022,06 NOV 2022,5,9249,9254,https://www.worldathletics.orgNot found
+38,"Marathon International de Marrakech, Marrakesh",MAR,15 MAY 2022,15 MAY 2022,0,9223,9223,https://www.worldathletics.orgNot found
+39,"The Combined 10th Osaka Marathon and 77th Lake Biwa Mainichi Marathon, Osaka",JPN,27 FEB 2022,27 FEB 2022,10,9204,9214,https://www.worldathletics.orgNot found
+40,"Maratón de Buenos Aires Ñandú, Buenos Aires",ARG,18 SEP 2022,18 SEP 2022,0,9200,9200,https://www.worldathletics.orgNot found
+41,"Venice Marathon, Venezia",ITA,23 OCT 2022,23 OCT 2022,0,9196,9196,https://www.worldathletics.orgNot found
+42,"Tartan Homes Ottawa International Marathon, Ottawa",CAN,29 MAY 2022,29 MAY 2022,20,9148,9168,https://www.worldathletics.orgNot found
+43,"Volksbank-Münster-Marathon, Münster",GER,11 SEP 2022,11 SEP 2022,0,9149,9149,https://www.worldathletics.orgNot found
+44,"N Kolay Istanbul Marathon, Istanbul",TUR,06 NOV 2022,06 NOV 2022,0,9129,9129,https://www.worldathletics.orgNot found
+45,"Sanlam Cape Town Marathon, Cape Town",RSA,16 OCT 2022,16 OCT 2022,5,9121,9126,https://www.worldathletics.orgNot found
+46,"Zürich Marathon, Zürich",SUI,10 APR 2022,10 APR 2022,0,9094,9094,https://www.worldathletics.orgNot found
+47,"Taipei Marathon, Taipei City",TPE,18 DEC 2022,18 DEC 2022,5,9086,9091,https://www.worldathletics.orgNot found
+48,"California International Marathon, Sacramento, CA",USA,04 DEC 2022,04 DEC 2022,0,9061,9061,https://www.worldathletics.orgNot found
+49,"World Military Marathon Championships, Lima",PER,08 MAY 2022,08 MAY 2022,40,9013,9053,https://www.worldathletics.orgNot found
+49,"Zurich Maratón San Sebastián, San Sebastián",ESP,27 NOV 2022,27 NOV 2022,0,9053,9053,https://www.worldathletics.orgNot found
+51,"Izmir Marathon, Izmir",TUR,17 APR 2022,17 APR 2022,0,9043,9043,https://www.worldathletics.orgNot found
+52,"""Exciting Hangzhou"" Marathon, Hangzhou",CHN,17 APR 2022,17 APR 2022,0,9035,9035,https://www.worldathletics.orgNot found
+53,"HAJ Hannover Marathon, Hannover",GER,03 APR 2022,03 APR 2022,0,9015,9015,https://www.worldathletics.orgNot found
+54,"Therme Manchester Marathon, Manchester",GBR,03 APR 2022,03 APR 2022,0,9013,9013,https://www.worldathletics.orgNot found
+55,"Los Angeles Marathon, Los Angeles, CA",USA,20 MAR 2022,20 MAR 2022,0,9005,9005,https://www.worldathletics.orgNot found
+56,"Generali Geneve Marathon, Genève",SUI,15 MAY 2022,15 MAY 2022,5,8993,8998,https://www.worldathletics.orgNot found
+57,"Hokkaido Marathon, Sapporo",JPN,28 AUG 2022,28 AUG 2022,20,8976,8996,https://www.worldathletics.orgNot found
+58,"Village Roadshow Theme Parks Gold Coast Marathon, Gold Coast",AUS,03 JUL 2022,03 JUL 2022,0,8994,8994,https://www.worldathletics.orgNot found
+59,"EDP Porto Marathon, Porto",POR,06 NOV 2022,06 NOV 2022,0,8992,8992,https://www.worldathletics.orgNot found
+60,"Nike Melbourne Marathon Festival, Melbourne",AUS,02 OCT 2022,02 OCT 2022,5,8944,8949,https://www.worldathletics.orgNot found
+61,"Maraton Warszawski, Warszawa",POL,25 SEP 2022,25 SEP 2022,0,8927,8927,https://www.worldathletics.orgNot found
+62,"XXXVIII Maratón Internacional Guadalajara Megacable 2022, Guadalajara",MEX,06 NOV 2022,06 NOV 2022,0,8921,8921,https://www.worldathletics.orgNot found
+63,"Bangabandhu Sheikh Mujib Dhaka Marathon, Dhaka",BAN,10 JAN 2022,10 JAN 2022,0,8892,8892,https://www.worldathletics.orgNot found
+64,"Poznań Marathon, Poznan",POL,16 OCT 2022,16 OCT 2022,0,8891,8891,https://www.worldathletics.orgNot found
+65,"Life Lima 42K, Lima",PER,11 SEP 2022,11 SEP 2022,0,8889,8889,https://www.worldathletics.orgNot found
+66,"adidas Stockholm Marathon, Stockholm",SWE,04 JUN 2022,04 JUN 2022,5,8881,8886,https://www.worldathletics.orgNot found
+67,"Irish Life Dublin Marathon, Dublin",IRL,30 OCT 2022,30 OCT 2022,0,8882,8882,https://www.worldathletics.orgNot found
+68,"Sparkasse 3-Länder-Marathon, Bregenz",AUT,09 OCT 2022,09 OCT 2022,0,8866,8866,https://www.worldathletics.orgNot found
+69,"Telcel Mexico City Marathon, Ciudad de México",MEX,28 AUG 2022,28 AUG 2022,0,8851,8851,https://www.worldathletics.orgNot found
+70,"Marathon du Lac d’Annecy, Annecy",FRA,17 APR 2022,17 APR 2022,0,8830,8830,https://www.worldathletics.orgNot found
+71,"Marathon de la Rochelle, La Rochelle",FRA,27 NOV 2022,27 NOV 2022,0,8787,8787,https://www.worldathletics.orgNot found
+72,"Padova Marathon, Padova",ITA,24 APR 2022,24 APR 2022,0,8759,8759,https://www.worldathletics.orgNot found
+73,"Marathon des Alpes-Maritimes Nice-Cannes, Nice",FRA,30 OCT 2022,30 OCT 2022,10,8748,8758,https://www.worldathletics.orgNot found
+74,"Marathon COMAR de Tunis Carthage, Tunis",TUN,04 DEC 2022,04 DEC 2022,0,8755,8755,https://www.worldathletics.orgNot found
+75,"Access Bank Lagos City Marathon, Lagos",NGR,12 FEB 2022,12 FEB 2022,0,8705,8705,https://www.worldathletics.orgNot found
+76,"Shanghai International Marathon, Shanghai",CHN,27 NOV 2022,27 NOV 2022,0,8680,8680,https://www.worldathletics.orgNot found
+77,"Medtronic Twin Cities Marathon, Minneapolis, MN",USA,02 OCT 2022,02 OCT 2022,0,8679,8679,https://www.worldathletics.orgNot found
+78,"Russian Marathon Championships, Sochi",RUS,02 APR 2022,02 APR 2022,0,8671,8671,https://www.worldathletics.orgNot found
+79,"CRDB Bank Marathon, Dar-es-Salaam",TAN,14 AUG 2022,14 AUG 2022,15,8622,8637,https://www.worldathletics.orgNot found
+80,"Peruvian Marathon Championships, Lima",PER,01 MAY 2022,01 MAY 2022,0,8620,8620,https://www.worldathletics.orgNot found
+81,"Kobe Marathon, Kobe",JPN,20 NOV 2022,20 NOV 2022,0,8613,8613,https://www.worldathletics.orgNot found
+82,"Rimi Riga Marathon, Riga",LAT,15 MAY 2022,15 MAY 2022,0,8585,8585,https://www.worldathletics.orgNot found
+83,"Beike Beijing Marathon, Beijing",CHN,06 NOV 2022,06 NOV 2022,0,8558,8558,https://www.worldathletics.orgNot found
+84,"Durban International Marathon, Durban",RSA,08 MAY 2022,08 MAY 2022,0,8551,8551,https://www.worldathletics.orgNot found
+85,"C&D Xiamen Marathon, Xiamen",CHN,27 NOV 2022,27 NOV 2022,0,8545,8545,https://www.worldathletics.orgNot found
+86,"Beppu-Oita Mainichi Marathon, Oita",JPN,06 FEB 2022,06 FEB 2022,0,8485,8485,https://www.worldathletics.orgNot found
+87,"Kigali International Peace Marathon, Kigali",RWA,29 MAY 2022,29 MAY 2022,5,8402,8407,https://www.worldathletics.orgNot found
+88,"Maraton Dębno Dębno, Debno",POL,10 APR 2022,10 APR 2022,0,8373,8373,https://www.worldathletics.orgNot found
+89,"Chengdu Marathon, Chengdu",CHN,20 NOV 2022,20 NOV 2022,0,8363,8363,https://www.worldathletics.orgNot found
+90,"FAW Audi 2022 Hangzhou Marathon, Hangzhou",CHN,20 NOV 2022,20 NOV 2022,0,8357,8357,https://www.worldathletics.orgNot found
+91,"Nagano Marathon, Nagano",JPN,17 APR 2022,17 APR 2022,0,8329,8329,https://www.worldathletics.orgNot found
+92,"Maratona di Ravenna Città d'Arte, Ravenna",ITA,13 NOV 2022,13 NOV 2022,0,8317,8317,https://www.worldathletics.orgNot found
+93,"Kuala Lumpur Standard Chartered Marathon, Kuala Lumpur",MAS,13 NOV 2022,13 NOV 2022,0,8296,8296,https://www.worldathletics.orgNot found
+94,"Marathon de Deauville, Deauville",FRA,20 NOV 2022,20 NOV 2022,0,8283,8283,https://www.worldathletics.orgNot found
+95,"Perm Marathon, Perm",RUS,04 SEP 2022,04 SEP 2022,0,8279,8279,https://www.worldathletics.orgNot found
+96,"Maybank Marathon, Bali",INA,28 AUG 2022,28 AUG 2022,0,8233,8233,https://www.worldathletics.orgNot found
+97,"Maratona da Cidade do Rio de Janeiro, Rio de Janeiro",BRA,19 JUN 2022,19 JUN 2022,0,8192,8192,https://www.worldathletics.orgNot found
+98,"Tallinn Marathon, Tallinn",EST,11 SEP 2022,11 SEP 2022,0,8168,8168,https://www.worldathletics.orgNot found
+99,"Torino City Marathon, Torino",ITA,06 NOV 2022,06 NOV 2022,0,8163,8163,https://www.worldathletics.orgNot found
+100,"Maratón Internacional de Juárez, Juárez",MEX,23 OCT 2022,23 OCT 2022,0,8084,8084,https://www.worldathletics.orgNot found
+101,"Al Mouj Muscat Marathon, Muscat",OMA,11 NOV 2022,11 NOV 2022,0,8053,8053,https://www.worldathletics.orgNot found
+102,"26° Maratona de São Paulo, São Paulo",BRA,10 APR 2022,10 APR 2022,0,8043,8043,https://www.worldathletics.orgNot found
+103,"Marathon de La Liberté, Caen",FRA,05 JUN 2022,05 JUN 2022,0,7988,7988,https://www.worldathletics.orgNot found
+104,"Honolulu Marathon, Honolulu, HI",USA,11 DEC 2022,11 DEC 2022,25,7942,7967,https://www.worldathletics.orgNot found
+105,"Belgrade Marathon, Beograd",SRB,15 MAY 2022,15 MAY 2022,0,7927,7927,https://www.worldathletics.orgNot found
+106,"Standard Chartered Singapore Marathon, Singapore",SGP,04 DEC 2022,04 DEC 2022,0,7863,7863,https://www.worldathletics.orgNot found
+107,"Maratona di Reggio Emilia - Città del Tricolore, Reggio Emilia",ITA,11 DEC 2022,11 DEC 2022,0,7861,7861,https://www.worldathletics.orgNot found
+108,"Wizz Air Sofia Marathon, Sofia",BUL,09 OCT 2022,09 OCT 2022,0,7853,7853,https://www.worldathletics.orgNot found
+109,"Kasumigaura Marathon, Kasumigaura",JPN,17 APR 2022,17 APR 2022,0,7852,7852,https://www.worldathletics.orgNot found
+110,"DOZ Łódź Marathon, Łódź",POL,24 APR 2022,24 APR 2022,0,7842,7842,https://www.worldathletics.orgNot found
+111,"Wrexham Elite Marathon, Wrexham",GBR,24 APR 2022,24 APR 2022,0,7841,7841,https://www.worldathletics.orgNot found
+112,"Maratón Monumental Primer Santiago de America, Santiago de los Caballeros",DOM,27 NOV 2022,27 NOV 2022,0,7775,7775,https://www.worldathletics.orgNot found
+113,"Marathon du Gabon Arise, Libreville",GAB,20 NOV 2022,20 NOV 2022,0,7751,7751,https://www.worldathletics.orgNot found
+114,"Galaxy Entertainment Macau International Marathon, Macao",MAC,04 DEC 2022,04 DEC 2022,0,7750,7750,https://www.worldathletics.orgNot found
+115,"Life Time Miami Marathon, Miami, FL",USA,06 FEB 2022,06 FEB 2022,0,7659,7659,https://www.worldathletics.orgNot found
+116,"Kazan Marathon, Kazan",RUS,15 MAY 2022,15 MAY 2022,0,7641,7641,https://www.worldathletics.orgNot found
+117,"Generali Köln Marathon, Köln",GER,02 OCT 2022,02 OCT 2022,0,7631,7631,https://www.worldathletics.orgNot found
+118,"EMF Edinburgh Marathon Festival, Edinburgh",GBR,29 MAY 2022,29 MAY 2022,0,7624,7624,https://www.worldathletics.orgNot found
+119,"Nara Marathon, Nara",JPN,11 DEC 2022,11 DEC 2022,0,7621,7621,https://www.worldathletics.orgNot found
+120,"Hainan Danzhou Marathon, Danzhou",CHN,18 DEC 2022,18 DEC 2022,0,7612,7612,https://www.worldathletics.orgNot found
+121,"Cork City Marathon, Cork",IRL,05 JUN 2022,05 JUN 2022,0,7607,7607,https://www.worldathletics.orgNot found
+122,"Gyeongju International Marathon, Gyeongju",KOR,16 OCT 2022,16 OCT 2022,0,7599,7599,https://www.worldathletics.orgNot found
+123,"South American Marathon Championships, Asunción",PAR,22 MAY 2022,22 MAY 2022,0,7581,7581,https://www.worldathletics.orgNot found
+124,"Auckland Marathon, Auckland",NZL,30 OCT 2022,30 OCT 2022,0,7569,7569,https://www.worldathletics.orgNot found
+125,"BMW Oslo Marathon, Oslo",NOR,17 SEP 2022,17 SEP 2022,0,7531,7531,https://www.worldathletics.orgNot found
+126,"Athens Marathon the Authentic, Athina",GRE,13 NOV 2022,13 NOV 2022,0,7503,7503,https://www.worldathletics.orgNot found
+127,"Tsukuba Marathon, Tsukuba",JPN,13 NOV 2022,13 NOV 2022,0,7478,7478,https://www.worldathletics.orgNot found
+128,"Mash Direct Belfast City Marathon, Belfast",GBR,01 MAY 2022,01 MAY 2022,0,7457,7457,https://www.worldathletics.orgNot found
+129,"New Taipei City Wan Jin Shi Marathon, New Taipei City",TPE,20 MAR 2022,20 MAR 2022,0,7435,7435,https://www.worldathletics.orgNot found
+130,"Maratón LALA, Torreón",MEX,06 MAR 2022,06 MAR 2022,0,7429,7429,https://www.worldathletics.orgNot found
+131,"ASB Auckland Marathon, Auckland",NZL,23 JAN 2022,23 JAN 2022,0,7428,7428,https://www.worldathletics.orgNot found
+132,"Amazing Thailand Marathon Bangkok presented by Toyota, Bangkok",THA,04 DEC 2022,04 DEC 2022,0,7421,7421,https://www.worldathletics.orgNot found
+133,"Cape Peninsula Marathon, Cape Town",RSA,20 FEB 2022,20 FEB 2022,0,7385,7385,https://www.worldathletics.orgNot found
+134,"Tashkent International Marathon, Tashkent",UZB,27 MAR 2022,27 MAR 2022,0,7332,7332,https://www.worldathletics.orgNot found
+135,"Helsinki City Running Day, Helsinki",FIN,14 MAY 2022,14 MAY 2022,0,7283,7283,https://www.worldathletics.orgNot found
+136,"Split Marathon, Split",CRO,27 FEB 2022,27 FEB 2022,0,7227,7227,https://www.worldathletics.orgNot found
+137,"Argentinian Marathon Championships, Santa Rosa",ARG,10 APR 2022,10 APR 2022,0,7223,7223,https://www.worldathletics.orgNot found
+138,"Paavo Nurmi Marathon, Turku",FIN,20 AUG 2022,20 AUG 2022,0,7168,7168,https://www.worldathletics.orgNot found
+139,"Baxters Loch Ness Marathon, Inverness",GBR,02 OCT 2022,02 OCT 2022,0,7145,7145,https://www.worldathletics.orgNot found
+140,"Tartu Linnamaraton, Tartu",EST,01 OCT 2022,01 OCT 2022,0,7078,7078,https://www.worldathletics.orgNot found
+141,"Johnson Crane Hire Marathon, Benoni",RSA,06 MAR 2022,06 MAR 2022,0,7077,7077,https://www.worldathletics.orgNot found
+142,"Bangkok Marathon, Bangkok",THA,20 NOV 2022,20 NOV 2022,0,7068,7068,https://www.worldathletics.orgNot found
+143,"Brighton Marathon Weekend, Brighton",GBR,10 APR 2022,10 APR 2022,0,7047,7047,https://www.worldathletics.orgNot found
+144,"BMW Dallas Marathon, Dallas, TX",USA,11 DEC 2022,11 DEC 2022,0,6991,6991,https://www.worldathletics.orgNot found
+145,"Veronamarathon, Verona",ITA,20 NOV 2022,20 NOV 2022,0,6938,6938,https://www.worldathletics.orgNot found
+146,"Zagreb Marathon, Zagreb",CRO,01 OCT 2022,01 OCT 2022,0,6934,6934,https://www.worldathletics.orgNot found
+147,"Baltimore Running Festival, Baltimore, MD",USA,15 OCT 2022,15 OCT 2022,0,6874,6874,https://www.worldathletics.orgNot found
+148,"Salzburg Marathon, Salzburg",AUT,15 MAY 2022,15 MAY 2022,0,6844,6844,https://www.worldathletics.orgNot found
+149,"Amazing Thailand Marathon Bangkok presented by Toyota, Bangkok",THA,27 FEB 2022,27 FEB 2022,0,6842,6842,https://www.worldathletics.orgNot found
+150,"Bangsaen42 Chonburi Marathon, Chon Buri",THA,30 OCT 2022,30 OCT 2022,0,6689,6689,https://www.worldathletics.orgNot found
+151,"Bangsaen42 Chonburi Marathon, Chon Buri",THA,20 MAR 2022,20 MAR 2022,0,6670,6670,https://www.worldathletics.orgNot found
+152,"International marathon Alexander the Great, Thessaloniki",GRE,10 APR 2022,10 APR 2022,0,6659,6659,https://www.worldathletics.orgNot found
+153,"SPAR Budapest Maraton, Budapest",HUN,09 OCT 2022,09 OCT 2022,0,6647,6647,https://www.worldathletics.orgNot found
+154,"H.C. Andersen Marathon, Odense",DEN,25 SEP 2022,25 SEP 2022,0,6506,6506,https://www.worldathletics.orgNot found
+155,"Podgorica Millennium Run - Coca-Cola HBC Maraton, Podgorica",MNE,20 NOV 2022,20 NOV 2022,0,6441,6441,https://www.worldathletics.orgNot found
+156,"Buriram Marathon Presented by Chang, Buri Ram",THA,22 JAN 2022,22 JAN 2022,0,6263,6263,https://www.worldathletics.orgNot found
