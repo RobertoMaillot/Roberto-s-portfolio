@@ -28,16 +28,15 @@ Test de l'impact des différents facteurs pour choisir les variables significati
 Détermination du modèle final.
 
 <img width="445" alt="ainsi ne garder que les variables avec un p-value  5" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/c9dbdb8a-3e30-4201-a07a-a0cc7b2a4d99">
+
 <img width="445" alt="Moyen de" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/48727919-cec7-415d-ab25-a70a00564cfb">
+
 <img width="445" alt="Test statistic" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/b1830be4-c8aa-47a9-b56e-e81763ddae35">
-<img width="300" alt="-0 45-0 21" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/d2cb2a66-8337-4a60-88d0-5cecea90de20">
-<img width="445" alt="On peut interpréter ce modèle de la manière suivante " src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/c0a024b8-5a53-46d3-9c8a-fad23db9131c">
 
 - Présentation des Résultats :
   
-<img width="664" alt="Capture d’écran 2024-03-24 à 11 35 50" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/b3563bde-5a9f-4f3a-9ab0-256b2c6ad190">
-<img width="564" alt="Capture d’écran 2024-03-24 à 11 37 53" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/aa01f51f-91b1-48fc-bd56-1da2b52225fd">
-
+<img width="300" alt="-0 45-0 21" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/d2cb2a66-8337-4a60-88d0-5cecea90de20">
+<img width="445" alt="On peut interpréter ce modèle de la manière suivante " src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/c0a024b8-5a53-46d3-9c8a-fad23db9131c">
 ### Compétences Techniques Acquises
 
 ✅ Formulation de questions de recherche pertinentes et définition d'un cadre conceptuel solide.
