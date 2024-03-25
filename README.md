@@ -73,14 +73,12 @@ Définition de la question de recherche et du cadre conceptuel de l'étude, en c
 Développement d'un questionnaire détaillé pour recueillir des données sur les habitudes de trajet des étudiants.
 Utilisation de techniques de sondage et de collecte d'informations pertinentes pour notre analyse. (google forms)
 
-<img width="469" alt="Capture d’écran 2024-03-24 à 11 27 59" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/971be4b0-f6b6-4260-b067-37e206beba51">
-
+<img width="445" alt="Est-ce votre trajet  allerretour " src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/8ce77de0-abcc-4939-9e4c-d6a3d8ec055d">
 
 - Analyse des Données :
 Nous avons réalisés dans un premiers temps une analyse statistiques sur les répondants et les réponses qu'ils ont données.
 
-<img width="645" alt="Capture d’écran 2024-03-24 à 11 29 30" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/d5d2fa90-83e3-4f45-8a4a-eabb0e975dcd">
-
+<img width="445" alt="Le profil des répondants" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/ee407e97-05ff-4b45-9e1a-8372b7dd52af">
 
 - Modélisation et Interprétation :
 Construction de modèles pour prédire la perception du temps de trajet en fonction des activités réalisées pendant le trajet.
@@ -88,14 +86,16 @@ Construction de modèles pour prédire la perception du temps de trajet en fonct
 Test de l'impact des différents facteurs pour choisir les variables significatives.
 Détermination du modèle final.
 
-<img width="527" alt="Capture d’écran 2024-03-24 à 11 30 19" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/f0d3602e-e0bb-4ddf-b522-40fc80f88d78">
-<img width="736" alt="Capture d’écran 2024-03-24 à 11 32 41" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/2390b36b-d648-42fa-b175-bbcab77038a0">
-<img width="702" alt="Capture d’écran 2024-03-24 à 11 34 17" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/4f5b3b3f-2770-4769-9e9f-2cabb5024c27">
+<img width="445" alt="ainsi ne garder que les variables avec un p-value  5" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/c9dbdb8a-3e30-4201-a07a-a0cc7b2a4d99">
+
+<img width="445" alt="Moyen de" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/48727919-cec7-415d-ab25-a70a00564cfb">
+
+<img width="445" alt="Test statistic" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/b1830be4-c8aa-47a9-b56e-e81763ddae35">
 
 - Présentation des Résultats :
-<img width="664" alt="Capture d’écran 2024-03-24 à 11 35 50" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/b3563bde-5a9f-4f3a-9ab0-256b2c6ad190">
-<img width="564" alt="Capture d’écran 2024-03-24 à 11 37 53" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/aa01f51f-91b1-48fc-bd56-1da2b52225fd">
-
+  
+<img width="300" alt="-0 45-0 21" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/d2cb2a66-8337-4a60-88d0-5cecea90de20">
+<img width="445" alt="On peut interpréter ce modèle de la manière suivante " src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/c0a024b8-5a53-46d3-9c8a-fad23db9131c">
 ### Compétences Techniques Acquises
 
 ✅ Formulation de questions de recherche pertinentes et définition d'un cadre conceptuel solide.
