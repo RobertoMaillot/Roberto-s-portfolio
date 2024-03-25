@@ -50,10 +50,7 @@ python
 - Évaluation des modèles en utilisant des métriques telles que l'AUC, le taux de succès et le taux d'erreur.
 
 <img width="701" alt="Capture d’écran 2024-03-24 à 10 51 58" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5c2699b3-1a7e-4824-b99c-c154dc9199ff">
-
-
-<img width="492" alt="Capture d’écran 2024-03-25 à 15 36 07" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/9c9611ea-6738-4528-a2ac-49339f9169e0"> <img width="386" alt="ROC CURVE IN TEST DATA BASE" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5b252ad1-2d55-498a-bd29-690ff9f0eebb">
-
+<img width="331" alt="Capture d’écran 2024-03-25 à 15 36 07" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/9c9611ea-6738-4528-a2ac-49339f9169e0"> <img width="331" alt="ROC CURVE IN TEST DATA BASE" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/29531352-a060-4320-8d5c-202cf2f514c5">
 
 <img width="701" alt="Capture d’écran 2024-03-25 à 15 53 02" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/a9a1b3ea-b932-47b7-8c49-e88aa6c28f50">
 
