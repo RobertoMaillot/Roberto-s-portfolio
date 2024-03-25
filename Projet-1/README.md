@@ -42,11 +42,17 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 <img width="400" alt="Podium" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/de37e6eb-4284-495e-9d23-a67789274a0f">
 
 ### Compétences Techniques Acquises 
+
 ✅ Collecte de données à partir de différentes sources (Kaggle, WebScrapping).
+
 ✅ Stockage et manipulation des données dans BigQuery avec des requêtes SQL.
+
 ✅ Visualisation de données avec Tableau Desktop pour créer des tableaux de bord interactifs.
+
 ✅ Modélisation prédictive en utilisant la régression linéaire avec Python.
+
 ✅ Évaluation et interprétation des modèles prédictifs.
+
 ✅ Présentation du projet devant un public
 
 ### Conclusion 📊
