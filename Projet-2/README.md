@@ -20,7 +20,7 @@ Utilisation de techniques de sondage et de collecte d'informations pertinentes p
 - Analyse des Données :
 Nous avons réalisés dans un premiers temps une analyse statistiques sur les répondants et les réponses qu'ils ont données.
 
-<img width="645" alt="Capture d’écran 2024-03-24 à 11 29 30" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/d5d2fa90-83e3-4f45-8a4a-eabb0e975dcd">
+<img width="569" alt="Capture d’écran 2024-03-24 à 11 29 30" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/d5d2fa90-83e3-4f45-8a4a-eabb0e975dcd">
 
 
 - Modélisation et Interprétation :
