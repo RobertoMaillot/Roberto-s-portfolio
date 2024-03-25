@@ -121,17 +121,16 @@ L'objectif principal de ce projet était de développer un modèle prédictif ca
 ### Collecte de Données :
 - Collecte de données sur les carrières des joueurs via Kaggle
 - Importation sur JupyterLab
-￼
-￼<img width="869" alt="Capture d’écran 2024-03-24 à 09 52 27" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/91086530-aa99-4400-99ec-68497db93c93">
 
-<img width="877" alt="Capture d’écran 2024-03-24 à 09 49 39" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/2ec47fb6-3b26-49b5-a9f6-997ba241c7cb">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 30 02" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/ce1c3d4b-cc3e-4cfe-9d43-494f0c2f8939">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 29 25" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/401b846d-b18b-440b-9828-7d5b4d43e030">
 
 ### Exploration des Données :
 - Analyse exploratoire pour comprendre les tendances et les relations entre les variables.
 - Visualisation des données pour identifier les caractéristiques importantes des joueurs à prendre en compte dans la modélisation.
 python
 
-<img width="388" alt="1340 non-null" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/e4746e7d-656d-486a-9a00-3a93943ea002">
+<img width="270" alt="RangeIndex 1340 entries," src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/6764f66c-625c-4416-9bc2-8993b710525e">
 
 ### Traitement de la donnée:
 - Séparation en base Train et base test
@@ -139,59 +138,49 @@ python
 - Standardisation de la données (features = variables numériques) 
 - MinMaxScaler() & fit_transform()
 
-<img width="874" alt="Capture d’écran 2024-03-24 à 09 58 11" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/09d568d6-532d-4f76-8267-7eb100b7c11a">
-<img width="881" alt="Capture d’écran 2024-03-24 à 09 59 15" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/99dc84cf-a328-4ee1-9230-ba867298afdd">
-<img width="967" alt="Capture d’écran 2024-03-24 à 10 03 22" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/4f63882b-f34c-4dbc-90ab-1f74d8ee5824">
-<img width="980" alt="Capture d’écran 2024-03-24 à 10 04 42" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/3c9aa256-19df-4324-a2fc-77cfe5c19331">
-<img width="969" alt="Capture d’écran 2024-03-24 à 10 10 38" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/2bdcc135-0870-444c-993c-f1feeed4c785">
-<img width="964" alt="Capture d’écran 2024-03-24 à 10 12 48" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/b2f26899-fdc1-473e-a5ad-e30bf9c9b56a">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 30 34" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5986485e-73d8-4279-b980-c5d0eb4efb58">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 31 15" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/bbd2f1ec-b6d5-4d29-bafa-63c1d4daac36">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 31 40" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/ec6d3079-8eae-401f-a413-f5f0d26804b5">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 32 16" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/ce7ac7da-cc84-428e-bd5d-e4f66e6af5e5">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 32 55" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/9e3ae736-9d4b-483d-ba7b-14fbae4e34b0">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 35 00" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/d79c9f34-899d-4cca-9561-05a46b2d5c91">
 
 ### Modélisation Prédictive :
 - Mise en place d’une fonction pour mesurer la performance des différents modèles
 - Entraînement de plusieurs modèles de machine learning, y compris Modèle de Régression Logistique, Random Forest et LightGBM, Arbre de décision, SVM pour prédire la durée de carrière des joueurs.
-- Évaluation des modèles en utilisant des métriques telles que l'AUC, le taux de succès et le taux d'erreur.
-python￼
 
-<img width="960" alt="Capture d’écran 2024-03-24 à 10 30 59" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/31e8e9b1-453c-4876-84e2-79c9964d8419">
-<img width="819" alt="Capture d’écran 2024-03-24 à 10 34 53" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/8a363c8a-9f81-4451-bbc4-1bfa807c245a">
-<img width="905" alt="Capture d’écran 2024-03-24 à 10 37 51" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/fe5d8f2b-7c52-4469-8af0-2ed1f3d1e7d0">
-<img width="821" alt="Capture d’écran 2024-03-24 à 10 39 05" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/439a3faa-b3d2-400b-8956-ee4809cf948f">
-<img width="999" alt="Capture d’écran 2024-03-24 à 10 40 24" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/2e7a7efa-32dd-4887-8f63-310bb1354ca3">
-<img width="725" alt="Capture d’écran 2024-03-24 à 10 41 28" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/745ae342-df1a-4ee6-8dd5-0e8aed9c7ec8">
-<img width="537" alt="Capture d’écran 2024-03-24 à 11 13 56" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/4f18bc71-1110-47a9-a282-10de522ff01d">
-<img width="634" alt="Capture d’écran 2024-03-24 à 11 14 39" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/90ffde8b-1b63-4cd6-b1f3-36d8cb97dfa5">
-<img width="841" alt="Capture d’écran 2024-03-24 à 11 19 46" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/8f6ae26e-2495-4ec7-bf41-4f92654b8dc3">
-<img width="847" alt="Capture d’écran 2024-03-24 à 10 48 52" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/3392d452-ec54-4ab1-a856-9470a1fdd5c8">
-<img width="743" alt="Capture d’écran 2024-03-24 à 10 50 36" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/81cd5697-3f40-4b62-9566-5afb07928808">
-<img width="762" alt="Capture d’écran 2024-03-24 à 10 51 34" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5d35d665-0d52-4772-a938-7ac7a00e4471">
+<img width="701" alt="Capture d’écran 2024-03-24 à 10 30 59" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/678fb1e6-ca99-465b-a504-b52f66e7038a">
+<img width="701" alt="Capture d’écran 2024-03-24 à 10 34 53" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/fa45f203-cecb-4ff5-b083-426e498d037e">
+<img width="701" alt="Capture d’écran 2024-03-24 à 10 39 05" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/222fb72b-c158-4626-9133-2a8262d41950">
+<img width="701" alt="Capture d’écran 2024-03-24 à 10 51 34" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/b53c0a1a-8aab-43a9-8a75-5bc74f1b25ae">
 
 ### Analyse des Résultats :
 - Comparaison des performances des différents modèles pour sélectionner le meilleur modèle.
+- Évaluation des modèles en utilisant des métriques telles que l'AUC, le taux de succès et le taux d'erreur.
 
-<img width="808" alt="Capture d’écran 2024-03-24 à 10 51 58" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/ff0654b1-c57d-4313-8bea-a8f39921437f">
-<img width="870" alt="Capture d’écran 2024-03-24 à 10 55 52" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/c9a83a15-006e-45c8-b2a0-43da62b8cbd9">
-<img width="772" alt="Capture d’écran 2024-03-24 à 10 57 33" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/236c1e62-cd4e-4492-9cb0-d3df8096fe1a">
-<img width="1169" alt="Capture d’écran 2024-03-24 à 11 00 31" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/20da98d9-93d0-4cbb-bc12-b872625a1f6a">
+<img width="701" alt="Capture d’écran 2024-03-24 à 10 51 58" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5c2699b3-1a7e-4824-b99c-c154dc9199ff">
+<img width="431" alt="Capture d’écran 2024-03-25 à 15 36 07" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/9c9611ea-6738-4528-a2ac-49339f9169e0"> <img width="301" alt="ROC CURVE IN TEST DATA BASE" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/29531352-a060-4320-8d5c-202cf2f514c5">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 53 02" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/a9a1b3ea-b932-47b7-8c49-e88aa6c28f50">
 
 ## Prédiction  :
 - Prédiction de la durée de carrière des joueurs actuels et présentation des résultats.
 - Sélection du modèle le plus performant pour prédire la durée de carrière des joueurs.
 
-<img width="893" alt="Capture d’écran 2024-03-24 à 11 01 58" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/785d4a01-e53d-4de3-8f5f-be0275177747">
-<img width="831" alt="Capture d’écran 2024-03-24 à 11 02 27" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/7fb1077a-dd9d-4943-9a74-41036a2598ed">
-<img width="576" alt="Capture d’écran 2024-03-24 à 11 03 07" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/50adbd06-5551-4745-ac37-9d16e6010353">
-<img width="851" alt="Capture d’écran 2024-03-24 à 11 03 44" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/12cd1760-35c7-4526-be0a-4a15691467cf">
-<img width="640" alt="Capture d’écran 2024-03-24 à 11 05 05" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5cfecedd-b62f-4a7e-a8fb-12934167301a">
-<img width="778" alt="Capture d’écran 2024-03-24 à 11 05 50" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/114fedb2-787f-4428-a8c3-fd6141fc946b">
-<img width="566" alt="Capture d’écran 2024-03-24 à 11 06 22" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/2738c082-0a06-4cbf-aa36-521bca7a8ff8">
-<img width="834" alt="Capture d’écran 2024-03-24 à 11 07 10" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/fbc9d990-9378-4967-a9c9-00fd0e7acf13">
+<img width="701" alt="Capture d’écran 2024-03-24 à 11 01 58" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/ebffea68-3259-402e-923a-6cc4192bb175">
+<img width="701" alt="Capture d’écran 2024-03-24 à 11 03 07" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/9be0cb60-c5b8-4b88-b844-21eeef050ede">
+<img width="701" alt="Tony Dumas" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/3694f8ce-10d1-4102-b9b4-d9f82b93f15c">
 
 ## Compétences Techniques Acquises :
 ✅Collecte et nettoyage de données
+
 ✅Exploration des données pour identifier des tendances et des caractéristiques importantes.
+
 ✅Modélisation prédictive avec des techniques avancées de Machine Learning.
+
 ✅Évaluation et interprétation des modèles pour prendre des décisions éclairées.
+
 ✅Communication des résultats 
 
 ## Conclusion 📊 :
 Ce projet met en lumière mes compétences en Data Analyse et en modélisation prédictive, ainsi que ma capacité à résoudre des problèmes réels en utilisant des techniques avancées d'apprentissage automatique. En déterminant les facteurs clés qui influent sur la durée de carrière des joueurs de basket-ball, ce projet offre des informations précieuses pour les équipes et les recruteurs dans le domaine du sport professionnel.
+
