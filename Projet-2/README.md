@@ -40,9 +40,13 @@ Détermination du modèle final.
 ### Compétences Techniques Acquises
 
 ✅ Formulation de questions de recherche pertinentes et définition d'un cadre conceptuel solide.
+
 ✅ Développement et administration d'un questionnaire pour la collecte de données.
+
 ✅ Analyse statistique des données avec R pour identifier les relations et les facteurs significatifs.
+
 ✅ Construction de modèles prédictifs pour comprendre et prédire la perception du temps de trajet.
+
 ✅ Communication efficace des résultats à un public varié
 
 Conclusion 📊
