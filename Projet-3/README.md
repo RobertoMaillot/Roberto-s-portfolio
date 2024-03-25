@@ -11,10 +11,9 @@ L'objectif principal de ce projet était de développer un modèle prédictif ca
 ### Collecte de Données :
 - Collecte de données sur les carrières des joueurs via Kaggle
 - Importation sur JupyterLab
-￼
-￼<img width="869" alt="Capture d’écran 2024-03-24 à 09 52 27" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/91086530-aa99-4400-99ec-68497db93c93">
 
-<img width="877" alt="Capture d’écran 2024-03-24 à 09 49 39" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/2ec47fb6-3b26-49b5-a9f6-997ba241c7cb">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 30 02" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/ce1c3d4b-cc3e-4cfe-9d43-494f0c2f8939">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 29 25" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/401b846d-b18b-440b-9828-7d5b4d43e030">
 
 ### Exploration des Données :
 - Analyse exploratoire pour comprendre les tendances et les relations entre les variables.
