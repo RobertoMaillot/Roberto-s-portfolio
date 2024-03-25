@@ -38,29 +38,21 @@ python
 ### Modélisation Prédictive :
 - Mise en place d’une fonction pour mesurer la performance des différents modèles
 - Entraînement de plusieurs modèles de machine learning, y compris Modèle de Régression Logistique, Random Forest et LightGBM, Arbre de décision, SVM pour prédire la durée de carrière des joueurs.
-- Évaluation des modèles en utilisant des métriques telles que l'AUC, le taux de succès et le taux d'erreur.
-python￼
 
-<img width="960" alt="Capture d’écran 2024-03-24 à 10 30 59" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/31e8e9b1-453c-4876-84e2-79c9964d8419">
-<img width="819" alt="Capture d’écran 2024-03-24 à 10 34 53" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/8a363c8a-9f81-4451-bbc4-1bfa807c245a">
-<img width="905" alt="Capture d’écran 2024-03-24 à 10 37 51" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/fe5d8f2b-7c52-4469-8af0-2ed1f3d1e7d0">
-<img width="821" alt="Capture d’écran 2024-03-24 à 10 39 05" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/439a3faa-b3d2-400b-8956-ee4809cf948f">
-<img width="999" alt="Capture d’écran 2024-03-24 à 10 40 24" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/2e7a7efa-32dd-4887-8f63-310bb1354ca3">
-<img width="725" alt="Capture d’écran 2024-03-24 à 10 41 28" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/745ae342-df1a-4ee6-8dd5-0e8aed9c7ec8">
-<img width="537" alt="Capture d’écran 2024-03-24 à 11 13 56" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/4f18bc71-1110-47a9-a282-10de522ff01d">
-<img width="634" alt="Capture d’écran 2024-03-24 à 11 14 39" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/90ffde8b-1b63-4cd6-b1f3-36d8cb97dfa5">
-<img width="841" alt="Capture d’écran 2024-03-24 à 11 19 46" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/8f6ae26e-2495-4ec7-bf41-4f92654b8dc3">
-<img width="847" alt="Capture d’écran 2024-03-24 à 10 48 52" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/3392d452-ec54-4ab1-a856-9470a1fdd5c8">
-<img width="743" alt="Capture d’écran 2024-03-24 à 10 50 36" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/81cd5697-3f40-4b62-9566-5afb07928808">
-<img width="762" alt="Capture d’écran 2024-03-24 à 10 51 34" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5d35d665-0d52-4772-a938-7ac7a00e4471">
+<img width="701" alt="Capture d’écran 2024-03-24 à 10 51 58" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/e42ef7b6-39f3-4d69-be10-4c0b56d418e2">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 36 07" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/01b84eba-ef10-432e-8a3f-75439bbbf82b">
+<img width="701" alt="ROC CURVE IN TEST DATA BASE" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/ac065e15-1ea5-4aec-be22-7cf6d45eec53">
+<img width="701" alt="Capture d’écran 2024-03-24 à 11 00 31" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/e48bcc2a-bc76-495d-a041-378945a5f553">
+
 
 ### Analyse des Résultats :
 - Comparaison des performances des différents modèles pour sélectionner le meilleur modèle.
+- Évaluation des modèles en utilisant des métriques telles que l'AUC, le taux de succès et le taux d'erreur.
 
-<img width="808" alt="Capture d’écran 2024-03-24 à 10 51 58" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/ff0654b1-c57d-4313-8bea-a8f39921437f">
-<img width="870" alt="Capture d’écran 2024-03-24 à 10 55 52" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/c9a83a15-006e-45c8-b2a0-43da62b8cbd9">
-<img width="772" alt="Capture d’écran 2024-03-24 à 10 57 33" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/236c1e62-cd4e-4492-9cb0-d3df8096fe1a">
-<img width="1169" alt="Capture d’écran 2024-03-24 à 11 00 31" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/20da98d9-93d0-4cbb-bc12-b872625a1f6a">
+<img width="701" alt="Capture d’écran 2024-03-24 à 10 51 58" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5c2699b3-1a7e-4824-b99c-c154dc9199ff">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 36 07" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/d842698a-ac41-4338-996b-1b2bccb60d50">
+<img width="701" alt="ROC CURVE IN TEST DATA BASE" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/6994aa05-dd3a-4f11-aca8-732314f8baa3">
+<img width="701" alt="Capture d’écran 2024-03-24 à 11 00 31" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/c2f528c8-61cc-49b1-ad14-099c3c588276">
 
 ## Prédiction  :
 - Prédiction de la durée de carrière des joueurs actuels et présentation des résultats.
