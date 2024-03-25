@@ -20,7 +20,7 @@ L'objectif principal de ce projet était de développer un modèle prédictif ca
 - Visualisation des données pour identifier les caractéristiques importantes des joueurs à prendre en compte dans la modélisation.
 python
 
-<img width="388" alt="1340 non-null" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/e4746e7d-656d-486a-9a00-3a93943ea002">
+<img width="270" alt="RangeIndex 1340 entries," src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/6764f66c-625c-4416-9bc2-8993b710525e">
 
 ### Traitement de la donnée:
 - Séparation en base Train et base test
@@ -28,12 +28,12 @@ python
 - Standardisation de la données (features = variables numériques) 
 - MinMaxScaler() & fit_transform()
 
-<img width="874" alt="Capture d’écran 2024-03-24 à 09 58 11" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/09d568d6-532d-4f76-8267-7eb100b7c11a">
-<img width="881" alt="Capture d’écran 2024-03-24 à 09 59 15" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/99dc84cf-a328-4ee1-9230-ba867298afdd">
-<img width="967" alt="Capture d’écran 2024-03-24 à 10 03 22" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/4f63882b-f34c-4dbc-90ab-1f74d8ee5824">
-<img width="980" alt="Capture d’écran 2024-03-24 à 10 04 42" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/3c9aa256-19df-4324-a2fc-77cfe5c19331">
-<img width="969" alt="Capture d’écran 2024-03-24 à 10 10 38" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/2bdcc135-0870-444c-993c-f1feeed4c785">
-<img width="964" alt="Capture d’écran 2024-03-24 à 10 12 48" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/b2f26899-fdc1-473e-a5ad-e30bf9c9b56a">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 30 34" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5986485e-73d8-4279-b980-c5d0eb4efb58">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 31 15" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/bbd2f1ec-b6d5-4d29-bafa-63c1d4daac36">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 31 40" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/ec6d3079-8eae-401f-a413-f5f0d26804b5">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 32 16" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/ce7ac7da-cc84-428e-bd5d-e4f66e6af5e5">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 32 55" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/9e3ae736-9d4b-483d-ba7b-14fbae4e34b0">
+<img width="701" alt="Capture d’écran 2024-03-25 à 15 35 00" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/d79c9f34-899d-4cca-9561-05a46b2d5c91">
 
 ### Modélisation Prédictive :
 - Mise en place d’une fonction pour mesurer la performance des différents modèles
