@@ -50,7 +50,7 @@ python
 - Évaluation des modèles en utilisant des métriques telles que l'AUC, le taux de succès et le taux d'erreur.
 
 <img width="701" alt="Capture d’écran 2024-03-24 à 10 51 58" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5c2699b3-1a7e-4824-b99c-c154dc9199ff">
-<img width="331" alt="Capture d’écran 2024-03-25 à 15 36 07" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/9c9611ea-6738-4528-a2ac-49339f9169e0"> <img width="331" alt="ROC CURVE IN TEST DATA BASE" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/29531352-a060-4320-8d5c-202cf2f514c5">
+<img width="431" alt="Capture d’écran 2024-03-25 à 15 36 07" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/9c9611ea-6738-4528-a2ac-49339f9169e0"> <img width="301" alt="ROC CURVE IN TEST DATA BASE" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/29531352-a060-4320-8d5c-202cf2f514c5">
 
 <img width="701" alt="Capture d’écran 2024-03-25 à 15 53 02" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/a9a1b3ea-b932-47b7-8c49-e88aa6c28f50">
 
@@ -58,14 +58,9 @@ python
 - Prédiction de la durée de carrière des joueurs actuels et présentation des résultats.
 - Sélection du modèle le plus performant pour prédire la durée de carrière des joueurs.
 
-<img width="893" alt="Capture d’écran 2024-03-24 à 11 01 58" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/785d4a01-e53d-4de3-8f5f-be0275177747">
-<img width="831" alt="Capture d’écran 2024-03-24 à 11 02 27" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/7fb1077a-dd9d-4943-9a74-41036a2598ed">
-<img width="576" alt="Capture d’écran 2024-03-24 à 11 03 07" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/50adbd06-5551-4745-ac37-9d16e6010353">
-<img width="851" alt="Capture d’écran 2024-03-24 à 11 03 44" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/12cd1760-35c7-4526-be0a-4a15691467cf">
-<img width="640" alt="Capture d’écran 2024-03-24 à 11 05 05" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5cfecedd-b62f-4a7e-a8fb-12934167301a">
-<img width="778" alt="Capture d’écran 2024-03-24 à 11 05 50" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/114fedb2-787f-4428-a8c3-fd6141fc946b">
-<img width="566" alt="Capture d’écran 2024-03-24 à 11 06 22" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/2738c082-0a06-4cbf-aa36-521bca7a8ff8">
-<img width="834" alt="Capture d’écran 2024-03-24 à 11 07 10" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/fbc9d990-9378-4967-a9c9-00fd0e7acf13">
+<img width="701" alt="Capture d’écran 2024-03-24 à 11 01 58" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/ebffea68-3259-402e-923a-6cc4192bb175">
+<img width="701" alt="Capture d’écran 2024-03-24 à 11 03 07" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/9be0cb60-c5b8-4b88-b844-21eeef050ede">
+<img width="701" alt="Tony Dumas" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/3694f8ce-10d1-4102-b9b4-d9f82b93f15c">
 
 ## Compétences Techniques Acquises :
 ✅Collecte et nettoyage de données
