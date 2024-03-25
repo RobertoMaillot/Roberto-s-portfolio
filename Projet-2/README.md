@@ -14,13 +14,13 @@ Définition de la question de recherche et du cadre conceptuel de l'étude, en c
 Développement d'un questionnaire détaillé pour recueillir des données sur les habitudes de trajet des étudiants.
 Utilisation de techniques de sondage et de collecte d'informations pertinentes pour notre analyse. (google forms)
 
-<img width="469" alt="Capture d’écran 2024-03-24 à 11 27 59" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/971be4b0-f6b6-4260-b067-37e206beba51">
+<img width="369" alt="Capture d’écran 2024-03-24 à 11 27 59" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/971be4b0-f6b6-4260-b067-37e206beba51">
 
 
 - Analyse des Données :
 Nous avons réalisés dans un premiers temps une analyse statistiques sur les répondants et les réponses qu'ils ont données.
 
-<img width="569" alt="Capture d’écran 2024-03-24 à 11 29 30" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/d5d2fa90-83e3-4f45-8a4a-eabb0e975dcd">
+<img width="469" alt="Capture d’écran 2024-03-24 à 11 29 30" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/d5d2fa90-83e3-4f45-8a4a-eabb0e975dcd">
 
 
 - Modélisation et Interprétation :
