@@ -17,12 +17,13 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 - Récupération de données sur les athlètes via le site World Athletics à l'aide du WebScrapping avec Python.
 - Extraction d'informations sur les marathons majeurs à travers le WebScrapping sur les sites des résultats.
 
-![Athletes men](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/38e4962f-e15b-4aff-be00-6c2daf4ac756)
-   
+![Athletes men](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/db25108e-10f3-4776-b5d7-413ebf10af8c)
+
+
 ### Stockage et Nettoyage des Données
 - Stockage, nettoyage et structuration des données dans BigQuery à l'aide de requêtes SQL pour la préparation des données.
 
-![BigQuery-ezgif com-video-to-gif-converter-2](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/6b195aed-aeb8-44db-bab1-8252024250b1)
+![BigQuery-ezgif com-video-to-gif-converter-2](https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/5069f52b-ac3f-438f-8d4c-ebc2aa8a3376)
 
 ### Visualisation des Données 
 - Utilisation de Tableau Desktop pour connecter BigQuery et créer des visualisations interactives.
@@ -42,7 +43,7 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 - Prédiction des temps de finition pour les marathoniens qualifiés aux JO de Paris 2024.
 - Présentation des podiums prévus pour les hommes et les femmes.
 
-<img width="637" alt="Podium" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/de37e6eb-4284-495e-9d23-a67789274a0f">
+<img width="400" alt="Podium" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/de37e6eb-4284-495e-9d23-a67789274a0f">
 
 ### Compétences Techniques Acquises 
 ✅ Collecte de données à partir de différentes sources (Kaggle, WebScrapping).
