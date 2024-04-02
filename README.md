@@ -46,12 +46,12 @@ L'objectif principal de ce projet était de prédire le temps final des marathon
 <img width="400" alt="Podium" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/de37e6eb-4284-495e-9d23-a67789274a0f">
 
 ### Compétences Techniques Acquises 
-✅ Collecte de données à partir de différentes sources (Kaggle, WebScrapping).
-✅ Stockage et manipulation des données dans BigQuery avec des requêtes SQL.
-✅ Visualisation de données avec Tableau Desktop pour créer des tableaux de bord interactifs.
-✅ Modélisation prédictive en utilisant la régression linéaire avec Python.
-✅ Évaluation et interprétation des modèles prédictifs.
-✅ Présentation du projet devant un public
+✅ Collecte de données à partir de différentes sources (Kaggle, WebScrapping).<br>
+✅ Stockage et manipulation des données dans BigQuery avec des requêtes SQL.<br>
+✅ Visualisation de données avec Tableau Desktop pour créer des tableaux de bord interactifs.<br>
+✅ Modélisation prédictive en utilisant la régression linéaire avec Python.<br>
+✅ Évaluation et interprétation des modèles prédictifs.<br>
+✅ Présentation du projet devant un public.<br>
 
 ### Conclusion 📊
 Ce projet démontre ma capacité à gérer le cycle complet d'un projet de Data Analyse, depuis la collecte des données jusqu'à la présentation des résultats. 
@@ -99,11 +99,11 @@ Détermination du modèle final.
 <img width="445" alt="On peut interpréter ce modèle de la manière suivante " src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/c0a024b8-5a53-46d3-9c8a-fad23db9131c">
 ### Compétences Techniques Acquises
 
-✅ Formulation de questions de recherche pertinentes et définition d'un cadre conceptuel solide.
-✅ Développement et administration d'un questionnaire pour la collecte de données.
-✅ Analyse statistique des données avec R pour identifier les relations et les facteurs significatifs.
-✅ Construction de modèles prédictifs pour comprendre et prédire la perception du temps de trajet.
-✅ Communication efficace des résultats à un public varié
+✅ Formulation de questions de recherche pertinentes et définition d'un cadre conceptuel solide.<br>
+✅ Développement et administration d'un questionnaire pour la collecte de données.<br>
+✅ Analyse statistique des données avec R pour identifier les relations et les facteurs significatifs.<br>
+✅ Construction de modèles prédictifs pour comprendre et prédire la perception du temps de trajet.<br>
+✅ Communication efficace des résultats à un public varié.<br>
 
 Conclusion 📊
 Ce projet démontre ma capacité à mener une recherche approfondie dans le domaine de la gestion, en utilisant des méthodes quantitatives pour explorer des questions complexes. Mes compétences en collecte et analyse de données ainsi que ma capacité à interpréter et communiquer des résultats sont essentielles pour aborder des défis liés à la gestion des transports et de la mobilité urbaine.
@@ -172,16 +172,53 @@ python
 <img width="701" alt="Tony Dumas" src="https://github.com/RobertoMaillot/Roberto-s-portfolio/assets/107147475/3694f8ce-10d1-4102-b9b4-d9f82b93f15c">
 
 ## Compétences Techniques Acquises :
-✅Collecte et nettoyage de données
-
-✅Exploration des données pour identifier des tendances et des caractéristiques importantes.
-
-✅Modélisation prédictive avec des techniques avancées de Machine Learning.
-
-✅Évaluation et interprétation des modèles pour prendre des décisions éclairées.
-
-✅Communication des résultats 
+✅Collecte et nettoyage de données.<br>
+✅Exploration des données pour identifier des tendances et des caractéristiques importantes.<br>
+✅Modélisation prédictive avec des techniques avancées de Machine Learning.<br>
+✅Évaluation et interprétation des modèles pour prendre des décisions éclairées.<br>
+✅Communication des résultats.<br>
 
 ## Conclusion 📊 :
 Ce projet met en lumière mes compétences en Data Analyse et en modélisation prédictive, ainsi que ma capacité à résoudre des problèmes réels en utilisant des techniques avancées d'apprentissage automatique. En déterminant les facteurs clés qui influent sur la durée de carrière des joueurs de basket-ball, ce projet offre des informations précieuses pour les équipes et les recruteurs dans le domaine du sport professionnel.
 
+# Projet 4 : Analyse Airbnb 🏠
+
+## Introduction
+Dans le cadre de ma formation en Data Analyse, j'ai entrepris une analyse approfondie des données Airbnb dans le but de comprendre les tendances du marché locatif dans une ville spécifique. Ce projet met en lumière mes compétences en collecte et en analyse de données, ainsi que ma capacité à tirer des insights significatifs pour informer les décisions commerciales.
+
+## Objectif 🎯
+L'objectif principal de cette analyse était d'identifier les principaux facteurs qui influent sur les prix des locations Airbnb dans une ville donnée. En utilisant des techniques d'analyse de données, nous avons cherché à comprendre les caractéristiques des propriétés, les tendances saisonnières et d'autres variables pertinentes qui peuvent affecter les prix de location.
+
+## Étapes du Projet ⛰️
+
+### Collecte de Données
+Importation de 2 jeux de données sous format "csv". 
+
+### Nettoyage et Préparation des Données
+Identification des clés primaires. (SQL)
+Traitement des données étant dans un mauvaix formats. (Python)
+Structuration des données pour faciliter l'analyse. (SQL / Python)
+
+### Analyse Exploratoire des Données
+Exploration des tendances générales dans les prix de location Airbnb.
+Identification des relations entre les caractéristiques des propriétés et les prix de location.
+
+### Visualisation des Résultats
+Création de visualisations interactives pour présenter les résultats de l'analyse (Python / Looker Studio)
+Illustration des tendances et des relations découvertes dans les données. (Python / Looker Studio)
+
+### Résultats et Implications
+Identification des facteurs qui influencent les prix des locations Airbnb.
+Identification des facteurs qui influencent sur la note laissé par les voyageurs.
+Recommandations pour les propriétaires afin d'améliorer les retours et leurs notes globales.
+
+## Compétences Techniques Acquises
+✅ Nettoyage et préparation de données pour l'analyse. <br>
+✅ Analyse exploratoire des données pour découvrir des tendances et des relations entre les variables.<br>
+✅ Identification d'axes d'améliorations.<br>
+✅ Développement d'un tableau de bord pour la visualisation des données et la communication des résultats.<br>
+
+## Conclusion 📊 :
+Ce projet démontre mes compétences avancées en analyse de données ainsi que ma capacité à comprendre les problématiques dans le secteur touristique.
+En utilisant des outils tels que Python avec Google Colab pour le traitement et l'analyse des données, SQL avec BigQuery pour le stockage et la manipulation des données à grande échelle, et Looker Studio pour la création d'un tableau de bord interactif de suivi, j'ai pu exploiter pleinement le potentiel des données d'Airbnb.
+Ainsi nous avons pu déduire des insights précieux pour améliorer l'expérience globale des voyageurs.
