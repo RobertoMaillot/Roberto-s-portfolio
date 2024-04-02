@@ -189,6 +189,8 @@ Dans le cadre de ma formation en Data Analyse, j'ai entrepris une analyse approf
 ## Objectif 🎯
 L'objectif principal de cette analyse était d'identifier les principaux facteurs qui influent sur les prix des locations Airbnb dans une ville donnée. En utilisant des techniques d'analyse de données, nous avons cherché à comprendre les caractéristiques des propriétés, les tendances saisonnières et d'autres variables pertinentes qui peuvent affecter les prix de location.
 
+[Lien analyse Python](https://colab.research.google.com/drive/15CHfgwsEGuzwO-gUekVDn4Br1IXU8Ggn#scrollTo=sGdIRuqW_ZDn)
+
 ## Étapes du Projet ⛰️
 
 ### Collecte de Données
