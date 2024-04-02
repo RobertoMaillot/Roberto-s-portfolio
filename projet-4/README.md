@@ -1,4 +1,4 @@
-# Projet 4 : Analyse de Airbnb 🏠
+# Projet 4 : Analyse des facteurs influençant les prix et la satisfaction sur Airbnb 🏠
 
 ## Introduction
 Dans le cadre de ma formation en Data Analyse, j'ai entrepris une analyse approfondie des données Airbnb dans le but de comprendre les tendances du marché locatif dans une ville spécifique. Ce projet met en lumière mes compétences en collecte et en analyse de données, ainsi que ma capacité à tirer des insights significatifs pour informer les décisions commerciales.
