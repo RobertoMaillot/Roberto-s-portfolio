@@ -1,0 +1,501 @@
+id,room_type,host_response_time,review_scores_value
+130420,Entire home/apt,within a few hours,4.43
+23441,Entire home/apt,within a day,4.64
+5396,Entire home/apt,within an hour,4.54
+7397,Entire home/apt,within an hour,4.72
+24260,Entire home/apt,within a few hours,4.64
+137112,Entire home/apt,within an hour,4.61
+26562,Entire home/apt,within a day,4.98
+137857,Entire home/apt,within an hour,4.55
+138548,Entire home/apt,within a few hours,4.79
+139074,Entire home/apt,within a day,4.85
+139889,Entire home/apt,within a few hours,4.88
+9952,Entire home/apt,within an hour,4.9
+27288,Entire home/apt,within an hour,4.87
+31435,Private room,within an hour,4.45
+32082,Entire home/apt,within an hour,4.9
+33114,Entire home/apt,within a few hours,4.74
+148885,Entire home/apt,within an hour,4.42
+33814,Entire home/apt,within a few hours,4.43
+151020,Entire home/apt,within an hour,4.79
+35065,Entire home/apt,within a few hours,4.63
+10586,Entire home/apt,within a day,4.67
+151935,Entire home/apt,within an hour,4.67
+10588,Entire home/apt,within a day,4.67
+153190,Entire home/apt,within a few hours,4.8
+38303,Private room,within an hour,4.77
+11213,Private room,within a few hours,4.55
+153674,Entire home/apt,within an hour,4.5
+11265,Entire home/apt,within a few hours,4.84
+38650,Entire home/apt,within an hour,4.45
+154292,Entire home/apt,within an hour,4.74
+39651,Entire home/apt,within a day,4.83
+39666,Entire home/apt,within a few hours,4.5
+11487,Entire home/apt,within a few hours,4.4
+11798,Entire home/apt,within a few hours,4.79
+39948,Private room,within a day,4.81
+40174,Entire home/apt,within a day,4.41
+40899,Entire home/apt,within a few hours,4.72
+41106,Entire home/apt,within an hour,4.64
+163384,Private room,within a few hours,4.64
+165409,Entire home/apt,within a few hours,4.75
+167998,Entire home/apt,within a few hours,4.49
+42348,Entire home/apt,within an hour,4.71
+42507,Entire home/apt,within an hour,4.79
+43355,Entire home/apt,within a day,3.43
+43500,Entire home/apt,a few days or more,2.33
+14757,Entire home/apt,within an hour,4.57
+16455,Entire home/apt,within an hour,4.34
+16626,Private room,within an hour,4.76
+168652,Entire home/apt,within a day,4.61
+17287,Entire home/apt,within an hour,4.93
+44130,Entire home/apt,a few days or more,4.08
+168695,Entire home/apt,within an hour,4.69
+170327,Private room,a few days or more,4.67
+171159,Entire home/apt,within an hour,4.41
+47155,Entire home/apt,within a few hours,4.63
+171658,Entire home/apt,within a day,5.0
+48498,Entire home/apt,a few days or more,4.1
+48584,Entire home/apt,a few days or more,4.37
+175338,Entire home/apt,within a few hours,4.83
+50738,Entire home/apt,within a day,4.51
+19306,Entire home/apt,within an hour,4.75
+20176,Entire home/apt,within a few hours,4.7
+20823,Entire home/apt,within an hour,4.66
+178188,Entire home/apt,within a few hours,4.77
+21004,Entire home/apt,within a day,4.71
+180627,Entire home/apt,a few days or more,4.26
+21194,Entire home/apt,within an hour,4.57
+54377,Private room,within a few hours,4.87
+55071,Entire home/apt,within an hour,4.71
+21419,Entire home/apt,within a few hours,4.63
+22158,Private room,within an hour,4.81
+182744,Entire home/apt,within a day,4.82
+22979,Private room,within a few hours,4.9
+55348,Entire home/apt,within an hour,4.83
+185575,Entire home/apt,within an hour,4.7
+272351,Entire home/apt,within a day,4.55
+274590,Entire home/apt,within a few hours,4.79
+186744,Entire home/apt,within a few hours,5.0
+274877,Entire home/apt,within a few hours,4.82
+56662,Entire home/apt,within a few hours,4.85
+187570,Entire home/apt,within a few hours,4.72
+57766,Entire home/apt,within a day,4.53
+275877,Entire home/apt,within an hour,4.44
+189378,Private room,within a few hours,4.53
+277077,Entire home/apt,within an hour,4.62
+59182,Entire home/apt,within a few hours,4.63
+192162,Entire home/apt,within an hour,4.81
+193632,Entire home/apt,within an hour,4.61
+282008,Entire home/apt,within a few hours,4.78
+60868,Entire home/apt,within an hour,4.71
+195564,Entire home/apt,within a day,4.82
+61016,Entire home/apt,within a day,4.57
+61259,Entire home/apt,within a day,4.69
+282817,Entire home/apt,within an hour,4.72
+197609,Entire home/apt,a few days or more,3.67
+61459,Entire home/apt,within an hour,4.61
+201257,Entire home/apt,within a few hours,4.85
+205140,Private room,within a day,4.71
+63480,Entire home/apt,within a day,4.66
+63881,Entire home/apt,within a day,4.68
+284294,Entire home/apt,a few days or more,4.5
+284315,Entire home/apt,within an hour,4.55
+284505,Entire home/apt,a few days or more,4.6
+208080,Entire home/apt,within a day,4.68
+285786,Entire home/apt,within a day,4.81
+65916,Entire home/apt,within an hour,4.72
+69083,Entire home/apt,within a day,5.0
+209025,Entire home/apt,within a day,4.69
+209796,Private room,within a few hours,4.91
+69588,Entire home/apt,within an hour,4.64
+212853,Entire home/apt,within an hour,4.65
+213360,Entire home/apt,within a few hours,4.69
+70586,Entire home/apt,within a few hours,4.75
+70858,Entire home/apt,within a day,5.0
+287674,Entire home/apt,within an hour,4.76
+214046,Entire home/apt,within an hour,4.72
+289647,Private room,within a few hours,4.84
+71495,Entire home/apt,within a day,4.67
+72427,Entire home/apt,within an hour,4.39
+214578,Entire home/apt,within an hour,4.57
+74561,Entire home/apt,within an hour,4.64
+290633,Entire home/apt,within a day,4.71
+215638,Entire home/apt,within an hour,4.42
+291235,Entire home/apt,within an hour,4.83
+75708,Entire home/apt,within an hour,4.66
+76400,Entire home/apt,within a day,4.65
+297658,Entire home/apt,within a few hours,4.4
+215763,Entire home/apt,within an hour,4.86
+298548,Entire home/apt,within a few hours,4.79
+77482,Entire home/apt,within a few hours,4.53
+216546,Entire home/apt,within an hour,5.0
+78366,Entire home/apt,within an hour,4.76
+299199,Entire home/apt,within a few hours,4.74
+301233,Entire home/apt,within a few hours,4.64
+302194,Entire home/apt,within a day,4.65
+220063,Private room,within a day,4.61
+221745,Entire home/apt,within a day,4.67
+80301,Private room,within a day,4.73
+81033,Entire home/apt,within an hour,4.81
+81106,Entire home/apt,within a few hours,4.81
+81615,Entire home/apt,within an hour,4.62
+302727,Entire home/apt,within a few hours,4.37
+221754,Entire home/apt,within an hour,4.64
+306538,Entire home/apt,within a few hours,4.7
+306624,Entire home/apt,within an hour,4.5
+307154,Entire home/apt,within an hour,4.84
+81870,Entire home/apt,a few days or more,4.0
+84820,Entire home/apt,within a day,4.75
+225747,Entire home/apt,within a few hours,4.78
+86053,Entire home/apt,within a few hours,4.86
+87481,Entire home/apt,within an hour,4.83
+308572,Entire home/apt,within a few hours,4.42
+229501,Entire home/apt,within an hour,4.65
+309092,Entire home/apt,within a day,4.76
+90790,Entire home/apt,within an hour,4.34
+230036,Entire home/apt,within a few hours,4.82
+310103,Entire home/apt,within a few hours,5.0
+93287,Entire home/apt,within an hour,4.7
+232437,Entire home/apt,within an hour,4.64
+94270,Entire home/apt,within a few hours,4.64
+311573,Entire home/apt,within an hour,4.64
+312437,Entire home/apt,within an hour,4.81
+95915,Entire home/apt,within a few hours,4.81
+312477,Entire home/apt,within an hour,4.29
+313180,Private room,within a day,4.56
+233110,Entire home/apt,within an hour,4.81
+98322,Entire home/apt,within a day,4.83
+240484,Entire home/apt,within an hour,4.61
+105210,Entire home/apt,within an hour,4.77
+314288,Private room,within an hour,4.73
+314294,Entire home/apt,within a day,4.85
+314903,Entire home/apt,within a few hours,4.94
+240930,Entire home/apt,within a few hours,4.58
+317690,Entire home/apt,within an hour,4.89
+108591,Entire home/apt,within a few hours,4.85
+243961,Entire home/apt,within a day,4.66
+109161,Entire home/apt,within an hour,4.8
+318358,Entire home/apt,within a few hours,4.5
+321624,Entire home/apt,within a day,4.7
+323132,Entire home/apt,within a few hours,4.86
+110322,Entire home/apt,within a day,4.58
+246647,Entire home/apt,within an hour,4.33
+111270,Entire home/apt,within an hour,4.79
+323270,Entire home/apt,a few days or more,4.94
+247728,Entire home/apt,within an hour,4.71
+247764,Entire home/apt,within a day,4.81
+248869,Entire home/apt,within an hour,4.6
+325333,Entire home/apt,within a few hours,4.58
+113011,Entire home/apt,within an hour,4.93
+250378,Entire home/apt,within a day,4.74
+114543,Entire home/apt,within an hour,4.84
+252049,Entire home/apt,within an hour,4.83
+115655,Entire home/apt,within a day,4.42
+325880,Entire home/apt,within an hour,4.62
+252095,Entire home/apt,within a day,4.59
+252525,Private room,within an hour,4.67
+117964,Entire home/apt,within an hour,3.75
+253877,Entire home/apt,within a few hours,4.83
+120494,Entire home/apt,within an hour,4.74
+332253,Entire home/apt,within a day,4.42
+256643,Entire home/apt,a few days or more,4.25
+332387,Entire home/apt,within a few hours,4.57
+122222,Entire home/apt,within an hour,4.79
+125686,Entire home/apt,within a day,4.69
+407717,Entire home/apt,within an hour,4.74
+332670,Entire home/apt,within a few hours,4.5
+259807,Entire home/apt,within a day,4.75
+408145,Entire home/apt,within an hour,4.48
+261875,Entire home/apt,within a day,4.97
+409039,Entire home/apt,within an hour,4.73
+409618,Entire home/apt,a few days or more,4.25
+262557,Entire home/apt,within an hour,4.62
+412350,Entire home/apt,within an hour,4.79
+412379,Entire home/apt,within a day,4.73
+335484,Entire home/apt,within a day,4.8
+336636,Private room,within an hour,4.68
+336904,Private room,within an hour,4.42
+266725,Entire home/apt,within a few hours,4.78
+339934,Entire home/apt,within an hour,4.57
+416129,Entire home/apt,within a few hours,4.77
+270067,Entire home/apt,within an hour,4.88
+502895,Entire home/apt,within a few hours,4.63
+341124,Entire home/apt,a few days or more,4.79
+417242,Entire home/apt,within a few hours,4.59
+503376,Entire home/apt,within a day,4.4
+342902,Entire home/apt,within an hour,4.72
+343648,Entire home/apt,within an hour,4.57
+419757,Entire home/apt,within a day,4.45
+419758,Entire home/apt,within a day,4.58
+505610,Entire home/apt,within a day,4.81
+343721,Entire home/apt,within an hour,4.6
+507108,Entire home/apt,within a few hours,4.88
+343862,Entire home/apt,within a day,4.66
+507193,Entire home/apt,within a day,4.7
+344230,Entire home/apt,within a day,4.91
+344258,Private room,within an hour,4.82
+420805,Entire home/apt,within a few hours,4.48
+420981,Entire home/apt,within a day,4.87
+507255,Entire home/apt,within an hour,4.85
+508235,Entire home/apt,a few days or more,4.64
+422295,Entire home/apt,within a day,4.67
+348747,Entire home/apt,within an hour,4.69
+422409,Entire home/apt,within a day,4.71
+509344,Entire home/apt,within an hour,4.73
+509357,Entire home/apt,within an hour,4.87
+423502,Entire home/apt,within a day,4.6
+349335,Entire home/apt,within a few hours,4.54
+423770,Entire home/apt,within a day,4.72
+510375,Entire home/apt,within a day,4.75
+427512,Entire home/apt,within a day,4.67
+510651,Private room,within an hour,4.82
+429194,Entire home/apt,within a day,4.84
+352851,Entire home/apt,within an hour,4.89
+510983,Private room,within an hour,4.5
+354929,Entire home/apt,within a few hours,4.52
+366754,Entire home/apt,within an hour,4.73
+431420,Entire home/apt,within a few hours,4.67
+432537,Entire home/apt,within a few hours,4.29
+513757,Entire home/apt,within a few hours,4.43
+432800,Entire home/apt,within a day,4.42
+371299,Entire home/apt,within an hour,4.72
+515970,Entire home/apt,within an hour,4.43
+371716,Entire home/apt,within a day,4.68
+371862,Entire home/apt,a few days or more,4.74
+434658,Entire home/apt,within a day,4.51
+372879,Entire home/apt,within a few hours,4.66
+375434,Entire home/apt,within an hour,4.71
+434981,Entire home/apt,within a day,4.76
+517897,Entire home/apt,within an hour,4.0
+436357,Entire home/apt,a few days or more,4.76
+436622,Entire home/apt,within an hour,4.66
+383284,Entire home/apt,within an hour,4.59
+518231,Private room,within a day,4.63
+384990,Entire home/apt,within a day,4.56
+440509,Entire home/apt,within an hour,4.73
+518650,Private room,within a few hours,4.66
+440849,Entire home/apt,within a day,4.64
+518742,Entire home/apt,within an hour,4.62
+440985,Entire home/apt,within a few hours,4.68
+390984,Entire home/apt,within an hour,4.88
+521080,Entire home/apt,within a few hours,4.72
+391189,Private room,within an hour,4.79
+393975,Entire home/apt,within a day,4.52
+444157,Entire home/apt,within an hour,4.42
+522428,Entire home/apt,within a few hours,4.83
+449093,Entire home/apt,within a few hours,4.89
+522835,Entire home/apt,within a day,4.83
+522864,Entire home/apt,within an hour,4.6
+524067,Entire home/apt,within an hour,4.76
+451293,Entire home/apt,within an hour,4.74
+524924,Entire home/apt,within an hour,4.83
+406852,Entire home/apt,within a day,4.64
+406902,Entire home/apt,within a few hours,4.51
+525128,Entire home/apt,within a few hours,4.44
+451629,Entire home/apt,within a few hours,4.91
+559474,Entire home/apt,within an hour,4.58
+452481,Entire home/apt,within a few hours,4.62
+528263,Entire home/apt,within a day,4.38
+560544,Entire home/apt,within a few hours,4.94
+528274,Entire home/apt,within a day,4.5
+528769,Entire home/apt,within an hour,4.72
+456179,Entire home/apt,within a few hours,5.0
+562643,Private room,within an hour,4.82
+562783,Entire home/apt,within an hour,4.74
+563514,Private room,within a few hours,4.49
+529711,Entire home/apt,within an hour,4.75
+458986,Entire home/apt,within an hour,4.84
+459950,Entire home/apt,within a few hours,4.92
+563587,Entire home/apt,within a day,4.61
+532504,Entire home/apt,within a few hours,4.88
+460301,Entire home/apt,a few days or more,4.0
+532991,Entire home/apt,within a day,4.94
+461860,Entire home/apt,within a few hours,4.62
+462307,Entire home/apt,within an hour,4.37
+564915,Entire home/apt,within a few hours,4.72
+534266,Entire home/apt,within a day,4.68
+565747,Entire home/apt,within a day,4.66
+566186,Entire home/apt,within a day,4.6
+566511,Shared room,within an hour,4.74
+462473,Entire home/apt,within a few hours,4.86
+463726,Entire home/apt,within a few hours,4.78
+534650,Entire home/apt,within an hour,4.55
+536347,Entire home/apt,within an hour,4.61
+566668,Entire home/apt,within a day,4.83
+537192,Entire home/apt,within a few hours,4.48
+466434,Entire home/apt,within an hour,4.37
+537443,Entire home/apt,within a few hours,4.69
+566867,Entire home/apt,within an hour,4.78
+538222,Entire home/apt,within a day,4.75
+566888,Entire home/apt,within an hour,4.48
+468471,Entire home/apt,within a day,4.62
+538767,Entire home/apt,within a few hours,4.8
+567001,Entire home/apt,within a few hours,4.91
+539722,Entire home/apt,within an hour,4.45
+568394,Entire home/apt,within a day,4.72
+568784,Entire home/apt,within a few hours,4.63
+469712,Entire home/apt,within an hour,4.79
+470270,Entire home/apt,within a few hours,4.5
+470361,Entire home/apt,within a day,4.53
+539800,Entire home/apt,within an hour,4.82
+569654,Entire home/apt,within a few hours,4.88
+539876,Entire home/apt,within a few hours,4.13
+471523,Entire home/apt,within an hour,4.44
+540206,Entire home/apt,within an hour,4.62
+474612,Entire home/apt,within a few hours,4.65
+475005,Entire home/apt,within a day,4.85
+571447,Private room,within an hour,4.88
+540366,Entire home/apt,within an hour,4.8
+541503,Entire home/apt,within a few hours,4.86
+541521,Entire home/apt,within an hour,4.75
+543233,Entire home/apt,within an hour,4.68
+476708,Private room,within a few hours,4.78
+571966,Entire home/apt,within a day,4.7
+574232,Entire home/apt,within an hour,4.79
+477766,Entire home/apt,within a day,4.76
+575022,Entire home/apt,within an hour,4.64
+546099,Entire home/apt,within an hour,4.83
+546396,Entire home/apt,within a few hours,4.96
+575286,Entire home/apt,within a few hours,4.48
+478380,Entire home/apt,within a day,4.7
+479634,Entire home/apt,within an hour,4.68
+547904,Entire home/apt,within an hour,4.53
+576992,Entire home/apt,within a day,4.79
+479687,Entire home/apt,within an hour,4.69
+479926,Entire home/apt,within an hour,4.57
+551560,Entire home/apt,within an hour,4.51
+579343,Entire home/apt,within a day,4.85
+579977,Entire home/apt,within an hour,4.79
+485465,Entire home/apt,within a few hours,4.78
+551881,Entire home/apt,a few days or more,3.88
+552628,Private room,within a few hours,4.84
+580935,Entire home/apt,within an hour,4.86
+552916,Private room,within a day,4.84
+582886,Entire home/apt,within a day,4.5
+486114,Entire home/apt,within a day,4.68
+486138,Entire home/apt,a few days or more,4.61
+554302,Entire home/apt,within an hour,4.68
+486547,Entire home/apt,within an hour,4.81
+584317,Entire home/apt,within a day,4.5
+554704,Entire home/apt,within a day,4.7
+489136,Private room,within a few hours,4.81
+489419,Entire home/apt,within a few hours,4.61
+585633,Entire home/apt,within a few hours,4.86
+556358,Entire home/apt,within an hour,4.41
+586024,Entire home/apt,within a few hours,5.0
+586510,Entire home/apt,within a few hours,4.76
+557051,Entire home/apt,within a few hours,4.35
+586642,Entire home/apt,within an hour,4.76
+497821,Entire home/apt,within a few hours,4.4
+587868,Entire home/apt,within a few hours,4.66
+558304,Private room,within a few hours,4.84
+558569,Entire home/apt,within an hour,4.85
+588211,Entire home/apt,within a few hours,4.61
+498449,Entire home/apt,within a few hours,4.83
+558768,Entire home/apt,within an hour,4.61
+500580,Entire home/apt,within a day,4.78
+621314,Entire home/apt,within a few hours,4.45
+501192,Entire home/apt,a few days or more,3.2
+590712,Entire home/apt,within an hour,4.69
+621726,Entire home/apt,within a few hours,4.5
+715817,Entire home/apt,within a day,4.73
+591123,Private room,within an hour,4.58
+622120,Entire home/apt,within a few hours,4.59
+591873,Private room,within an hour,4.56
+591988,Entire home/apt,within an hour,4.82
+718556,Entire home/apt,within a day,4.46
+623042,Entire home/apt,within a day,4.66
+718659,Entire home/apt,within a few hours,4.73
+721414,Entire home/apt,within a day,4.83
+722747,Entire home/apt,within an hour,4.6
+593465,Entire home/apt,within an hour,4.73
+595610,Entire home/apt,within a few hours,4.81
+726278,Entire home/apt,within a day,4.29
+726854,Entire home/apt,within a few hours,4.7
+629392,Entire home/apt,within an hour,4.77
+596798,Entire home/apt,within a few hours,4.78
+727265,Entire home/apt,within a day,4.61
+631325,Entire home/apt,within an hour,4.91
+632968,Entire home/apt,within a day,4.63
+599179,Entire home/apt,within an hour,4.85
+599822,Entire home/apt,within an hour,4.68
+600105,Entire home/apt,within an hour,4.56
+601294,Entire home/apt,within a day,4.65
+727473,Entire home/apt,within a day,4.58
+728396,Entire home/apt,within an hour,4.96
+602805,Entire home/apt,within a day,4.72
+728737,Entire home/apt,within a few hours,4.42
+729370,Private room,within an hour,4.87
+607363,Entire home/apt,within a few hours,4.91
+607523,Entire home/apt,within an hour,4.71
+608289,Entire home/apt,within an hour,4.74
+636632,Entire home/apt,within a day,4.79
+729422,Entire home/apt,within an hour,4.53
+729482,Entire home/apt,within a few hours,4.79
+609302,Entire home/apt,a few days or more,4.73
+729645,Entire home/apt,within an hour,4.84
+730350,Entire home/apt,within an hour,4.64
+611387,Entire home/apt,within an hour,4.79
+639454,Entire home/apt,within an hour,4.5
+731081,Entire home/apt,within a few hours,4.68
+642059,Private room,within a day,4.87
+731108,Entire home/apt,within an hour,4.71
+612014,Entire home/apt,within a day,4.83
+642234,Entire home/apt,within a day,5.0
+613739,Entire home/apt,within an hour,4.57
+732458,Entire home/apt,within a few hours,4.64
+644315,Entire home/apt,within a few hours,4.64
+733727,Entire home/apt,within an hour,4.8
+614087,Entire home/apt,within an hour,4.8
+614987,Entire home/apt,within an hour,4.56
+648659,Entire home/apt,within a day,4.7
+615021,Entire home/apt,within an hour,4.75
+649551,Entire home/apt,within an hour,4.8
+736764,Entire home/apt,within an hour,4.57
+615069,Entire home/apt,within an hour,4.42
+650980,Entire home/apt,within a day,4.65
+615157,Private room,within an hour,4.6
+652430,Entire home/apt,within an hour,4.72
+740186,Entire home/apt,within a few hours,4.77
+653458,Entire home/apt,within an hour,4.79
+615971,Entire home/apt,within a few hours,4.35
+740902,Entire home/apt,within an hour,4.94
+740921,Entire home/apt,within an hour,4.83
+617069,Entire home/apt,within an hour,4.67
+655567,Entire home/apt,within an hour,4.78
+656398,Entire home/apt,within an hour,4.73
+742868,Private room,within an hour,4.72
+742950,Entire home/apt,within an hour,4.78
+618641,Private room,within a day,5.0
+745338,Entire home/apt,within an hour,4.5
+656822,Private room,within a day,4.86
+783167,Entire home/apt,within a few hours,4.57
+784444,Entire home/apt,within a day,4.8
+657696,Entire home/apt,within an hour,4.63
+746611,Entire home/apt,within an hour,4.77
+657739,Entire home/apt,within an hour,4.48
+661277,Entire home/apt,within an hour,4.52
+747179,Entire home/apt,within an hour,4.85
+784610,Private room,within a few hours,4.85
+784846,Entire home/apt,within a few hours,4.75
+784863,Entire home/apt,within a day,4.65
+747874,Entire home/apt,within a day,4.69
+663351,Entire home/apt,within a few hours,4.56
+748166,Private room,within a few hours,4.82
+786347,Entire home/apt,within an hour,4.82
+665192,Entire home/apt,within a day,4.69
+786714,Entire home/apt,within a day,4.72
+748212,Entire home/apt,within a few hours,4.47
+665843,Private room,within a few hours,4.91
+749135,Entire home/apt,within an hour,4.88
+666408,Entire home/apt,within an hour,4.78
+750299,Entire home/apt,within a few hours,4.85
+751281,Entire home/apt,within a few hours,4.78
+751764,Entire home/apt,within an hour,4.57
+787167,Entire home/apt,within an hour,4.92
+788259,Private room,within an hour,4.63
+667602,Private room,within an hour,4.5
+751883,Entire home/apt,within an hour,4.76
+668533,Private room,within a few hours,4.75
+753084,Entire home/apt,within a few hours,5.0
