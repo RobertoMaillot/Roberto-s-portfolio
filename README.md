@@ -181,7 +181,7 @@ python
 ## Conclusion 📊 :
 Ce projet met en lumière mes compétences en Data Analyse et en modélisation prédictive, ainsi que ma capacité à résoudre des problèmes réels en utilisant des techniques avancées d'apprentissage automatique. En déterminant les facteurs clés qui influent sur la durée de carrière des joueurs de basket-ball, ce projet offre des informations précieuses pour les équipes et les recruteurs dans le domaine du sport professionnel.
 
-# Projet 4 : Analyse de Airbnb 🏠
+# Projet 4 : Analyse des facteurs influençant les prix et la satisfaction sur Airbnb 🏠
 
 ## Introduction
 Dans le cadre de ma formation en Data Analyse, j'ai entrepris une analyse approfondie des données Airbnb dans le but de comprendre les tendances du marché locatif dans une ville spécifique. Ce projet met en lumière mes compétences en collecte et en analyse de données, ainsi que ma capacité à tirer des insights significatifs pour informer les décisions commerciales.
